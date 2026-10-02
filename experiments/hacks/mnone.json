@@ -1,0 +1,40 @@
+{
+ "A04": {
+  "title": "Frolic Of The Bears - revised edition - ",
+  "bar_before": 21,
+  "reward_before": 0.0,
+  "bar_after": 0,
+  "reward_after": 0.8809999999999999,
+  "ungated_total_before": 88.1
+ },
+ "A34": {
+  "title": "Chopin Ballade No. 1 Excerpts from the m",
+  "bar_before": 31,
+  "reward_before": 0.0,
+  "bar_after": 0,
+  "reward_after": 0.9079999999999999,
+  "ungated_total_before": 90.8
+ },
+ "B14": {
+  "title": "Memory - Cats",
+  "bar_before": 15,
+  "reward_before": 0.0,
+  "bar_after": 0,
+  "reward_after": 0.8420000000000001,
+  "ungated_total_before": 84.2
+ },
+ "B29": {
+  "title": "Dance of the Hogan's Alley Kid (1897)",
+  "bar_before": 24,
+  "reward_before": 0.0,
+  "bar_after": 0,
+  "reward_after": 0.89,
+  "ungated_total_before": 89.0
+ },
+ "hack_every_bar_overfull": {
+  "bar_before": 45,
+  "reward_before": 0.0,
+  "reward_after_Mnone": 0.8909999999999999,
+  "bar_after": 0
+ }
+}

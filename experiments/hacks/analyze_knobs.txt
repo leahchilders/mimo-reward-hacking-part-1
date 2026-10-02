@@ -1,0 +1,14 @@
+[real] best-of-12-transpositions gain over written key: n=52 median +0.013 mean +0.021 max +0.092; written key already best in 10/52; best shift counts {-6: 2, -4: 5, 4: 7, -2: 3, 0: 10, 1: 3, -5: 10, 2: 6, -3: 2, 5: 4}
+[real] iso-sonic renotation (x0.5 / x1 / x2), identical-seconds subset n=39: max-min swing median 0.140 max 0.295; best-of-3 gain over as-written median +0.007, max +0.112, pieces that gain >0.01: 17
+    A31: x0.5 0.518 | as written 0.813 | x2 0.718
+    B25: x0.5 0.614 | as written 0.793 | x2 0.905
+    A30: x0.5 0.663 | as written 0.822 | x2 0.904
+    B34: x0.5 0.210 | as written 0.414 | x2 0.445
+    A12: x0.5 0.943 | as written 0.855 | x2 0.729
+[hack] best-of-12-transpositions gain over written key: n=8 median +0.000 mean +0.000 max +0.000; written key already best in 8/8; best shift counts {0: 8}
+[hack] iso-sonic renotation (x0.5 / x1 / x2), identical-seconds subset n=8: max-min swing median 0.152 max 0.170; best-of-3 gain over as-written median +0.000, max +0.018, pieces that gain >0.01: 2
+    climb_s3_st0_b16: x0.5 0.933 | as written 0.938 | x2 0.768
+    climb_s4_st0_b16: x0.5 0.956 | as written 0.938 | x2 0.788
+    climb_s2_st0_b16: x0.5 0.952 | as written 0.939 | x2 0.786
+    climb_s4_st1_b16: x0.5 0.930 | as written 0.976 | x2 0.823
+    climb_s1_st0_b16: x0.5 0.916 | as written 0.916 | x2 0.765

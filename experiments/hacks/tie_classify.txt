@@ -1,0 +1,34 @@
+Tie classes (all ties, by whether the piece has abc2midi tie Errors):
+  clean    ok_same_pitch                  1243   [valid (4.11)]
+  clean    partial_chord_tie                 2   [spec-undefined (4.11: tie joins notes of the same pitch)]
+  clean    tie_to_different_pitch            2   [invalid (4.11)]
+  clean    tie_to_other_octave               3   [invalid (4.11)]
+  tie_err  ok_same_pitch                   787   [valid (4.11)]
+  tie_err  partial_chord_tie                16   [spec-undefined (4.11: tie joins notes of the same pitch)]
+  tie_err  tie_to_different_pitch           27   [invalid (4.11)]
+  tie_err  tie_to_invisible_spacer_x        28   [invalid (4.11)]
+  tie_err  tie_to_other_octave               9   [invalid (4.11)]
+  tie_err  tie_to_rest_or_spacer             3   [invalid (4.11)]
+
+Pieces with tie Errors (n=21):
+  A01 Debussy Prelude Book 2 No 5 Bruyères     tieErr= 20 -> after dropping invalid/undefined ties:   0 (+grace: 0); reward after=0.891 other_err=0 bar=0  non-ok ties: {'tie_to_invisible_spacer_x': 6}
+  A09 Wall Street Rag - Scott Joplin - 1909    tieErr= 11 -> after dropping invalid/undefined ties:   0 (+grace: 0); reward after=0.933 other_err=0 bar=0  non-ok ties: {'partial_chord_tie': 4, 'tie_to_invisible_spacer_x': 4}
+  A11 Schubert/Liszt - Ständchen               tieErr= 21 -> after dropping invalid/undefined ties:  12 (+grace: 12); reward after=0.000 other_err=10 bar=23  non-ok ties: {'tie_to_different_pitch': 6, 'tie_to_other_octave': 2, 'tie_to_invisible_spacer_x': 2}
+  A13 A Real Slow Drag - Scott Joplin - 1913   tieErr= 13 -> after dropping invalid/undefined ties:   0 (+grace: 0); reward after=0.935 other_err=0 bar=4  non-ok ties: {'partial_chord_tie': 4, 'tie_to_invisible_spacer_x': 5}
+  A14 Franz Liszt: Hungarian Rhapsody No.6 in  tieErr=  2 -> after dropping invalid/undefined ties:   2 (+grace: 2); reward after=0.000 other_err=70 bar=0  non-ok ties: {}
+  A15 The Entertainer - Scott Joplin - 1902    tieErr=  1 -> after dropping invalid/undefined ties:   0 (+grace: 0); reward after=0.972 other_err=0 bar=0  non-ok ties: {'partial_chord_tie': 1}
+  A16 Chopin Ballade No. 1 (Complete) Piano so tieErr=  1 -> after dropping invalid/undefined ties:   0 (+grace: 0); reward after=0.000 other_err=1 bar=33  non-ok ties: {'tie_to_invisible_spacer_x': 1}
+  A19 Schumann - Album for the Young Op. 68 No tieErr=  4 -> after dropping invalid/undefined ties:   0 (+grace: 0); reward after=0.800 other_err=0 bar=0  non-ok ties: {'partial_chord_tie': 2, 'tie_to_invisible_spacer_x': 2}
+  A20 Peacherine Rag - Scott Joplin - 1901     tieErr=  1 -> after dropping invalid/undefined ties:   0 (+grace: 0); reward after=0.895 other_err=0 bar=0  non-ok ties: {'partial_chord_tie': 1}
+  A21 Paragon Rag - Scott Joplin - 1909        tieErr= 22 -> after dropping invalid/undefined ties:   0 (+grace: 0); reward after=0.978 other_err=0 bar=0  non-ok ties: {'partial_chord_tie': 4, 'tie_to_rest_or_spacer': 1, 'tie_to_invisible_spacer_x': 6}
+  A29 Chopin Nocturne in E Minor Op. 72 No. 1  tieErr=  1 -> after dropping invalid/undefined ties:   0 (+grace: 0); reward after=0.000 other_err=48 bar=16  non-ok ties: {'tie_to_different_pitch': 1}
+  A32 J.S. Bach - Toccata & Fugue in D minor B tieErr=  1 -> after dropping invalid/undefined ties:   0 (+grace: 0); reward after=0.000 other_err=0 bar=23  non-ok ties: {'tie_to_different_pitch': 1}
+  A35 Étude after Paganini's 19th Caprice - R. tieErr=  3 -> after dropping invalid/undefined ties:   0 (+grace: 0); reward after=0.000 other_err=0 bar=17  non-ok ties: {'tie_to_other_octave': 3}
+  A36 Nocturne (F.ChopinOp.9. No.2)            tieErr=  1 -> after dropping invalid/undefined ties:   0 (+grace: 0); reward after=0.000 other_err=0 bar=10  non-ok ties: {'tie_to_invisible_spacer_x': 1}
+  B10 Corona March (1911)                      tieErr=  1 -> after dropping invalid/undefined ties:   1 (+grace: 1); reward after=0.000 other_err=0 bar=0  non-ok ties: {}
+  B12 Believe me if all those endearing young  tieErr=  2 -> after dropping invalid/undefined ties:   0 (+grace: 0); reward after=0.000 other_err=1 bar=0  non-ok ties: {'tie_to_different_pitch': 2}
+  B24 Aleksandr Scriabin - Piano Sonata No. 6  tieErr=  2 -> after dropping invalid/undefined ties:   0 (+grace: 0); reward after=0.710 other_err=0 bar=0  non-ok ties: {'tie_to_different_pitch': 2}
+  B27 FERAL op. 1 0 9 no.1 from 3 DELINQUENT ( tieErr=  3 -> after dropping invalid/undefined ties:   2 (+grace: 2); reward after=0.000 other_err=1 bar=1  non-ok ties: {'tie_to_rest_or_spacer': 1}
+  B31 Jingle Bells - Jazz Piano                tieErr=  1 -> after dropping invalid/undefined ties:   0 (+grace: 0); reward after=0.880 other_err=0 bar=1  non-ok ties: {'tie_to_other_octave': 2}
+  B33 À la manière de Chabrier (M.Ravel M.63)  tieErr= 29 -> after dropping invalid/undefined ties:  11 (+grace: 11); reward after=0.000 other_err=6 bar=20  non-ok ties: {'tie_to_different_pitch': 14, 'tie_to_other_octave': 2, 'tie_to_rest_or_spacer': 1, 'tie_to_invisible_spacer_x': 1}
+  B36 La Bohème                                tieErr=  1 -> after dropping invalid/undefined ties:   0 (+grace: 0); reward after=0.886 other_err=0 bar=0  non-ok ties: {'tie_to_different_pitch': 1}

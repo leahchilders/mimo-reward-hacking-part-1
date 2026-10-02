@@ -1,0 +1,38 @@
+{
+ "single voice": {
+  "n": 20,
+  "median": 0.331,
+  "min": 0.285,
+  "max": 0.383
+ },
+ "+ voice with ONE note (c)": {
+  "n": 20,
+  "median": 0.359,
+  "min": 0.296,
+  "max": 0.413
+ },
+ "+ voice with ONE note C,, (MIDI 36)": {
+  "n": 20,
+  "median": 0.45,
+  "min": 0.387,
+  "max": 0.503
+ },
+ "+ voice with ONE whole-note chord [C,,G,,E,] at MIDI volume 0": {
+  "n": 20,
+  "median": 0.577,
+  "min": 0.528,
+  "max": 0.624
+ },
+ "+ 16-bar sustained bass drone C,,8 at MIDI volume 0": {
+  "n": 20,
+  "median": 0.646,
+  "min": 0.613,
+  "max": 0.673
+ },
+ "+ 16-bar sustained bass drone C,,8 (audible)": {
+  "n": 20,
+  "median": 0.646,
+  "min": 0.613,
+  "max": 0.673
+ }
+}

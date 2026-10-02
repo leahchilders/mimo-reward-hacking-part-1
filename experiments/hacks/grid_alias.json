@@ -1,0 +1,127 @@
+{
+ "add_voice": {
+  "base": {
+   "reward": 0.978,
+   "n_note": 249,
+   "polyphony_rate": 0.488,
+   "polyphony_mean": 1.87,
+   "roughness_p90": 0.0097,
+   "harmonicity_mean": 0.6159,
+   "tension_peaks": 13,
+   "pitch_min": 36,
+   "key_certainty": 0.931,
+   "n_chan": 3
+  },
+  "+ on-beat 16th triads": {
+   "reward": 0.9179999999999999,
+   "n_note": 441,
+   "polyphony_rate": 0.488,
+   "polyphony_mean": 1.87,
+   "roughness_p90": 0.0097,
+   "harmonicity_mean": 0.6159,
+   "tension_peaks": 2,
+   "pitch_min": 36,
+   "key_certainty": 0.877,
+   "n_chan": 4
+  },
+  "+ off-beat 16th triads": {
+   "reward": 0.914,
+   "n_note": 441,
+   "polyphony_rate": 0.488,
+   "polyphony_mean": 1.87,
+   "roughness_p90": 0.0097,
+   "harmonicity_mean": 0.6159,
+   "tension_peaks": 2,
+   "pitch_min": 36,
+   "key_certainty": 0.877,
+   "n_chan": 4
+  },
+  "+ guitar-chord accompaniment (\"C\" on rests)": {
+   "reward": 0.907,
+   "n_note": 377,
+   "polyphony_rate": 0.488,
+   "polyphony_mean": 1.87,
+   "roughness_p90": 0.0097,
+   "harmonicity_mean": 0.6159,
+   "tension_peaks": 2,
+   "pitch_min": 36,
+   "key_certainty": 0.918,
+   "n_chan": 5
+  }
+ },
+ "invisible": {
+  "demo_notes": [
+   [
+    1,
+    239,
+    0,
+    72,
+    105
+   ],
+   [
+    1,
+    1919,
+    1,
+    48,
+    105
+   ],
+   [
+    241,
+    239,
+    0,
+    74,
+    80
+   ],
+   [
+    481,
+    119,
+    0,
+    76,
+    80
+   ],
+   [
+    721,
+    119,
+    0,
+    77,
+    80
+   ],
+   [
+    961,
+    479,
+    0,
+    72,
+    95
+   ],
+   [
+    1441,
+    239,
+    0,
+    72,
+    80
+   ],
+   [
+    1921,
+    1919,
+    0,
+    72,
+    105
+   ],
+   [
+    1921,
+    1919,
+    1,
+    48,
+    105
+   ]
+  ],
+  "real_n": 52,
+  "real_invisible_median": 0.575,
+  "real_invisible_range": [
+   0.056,
+   0.958
+  ],
+  "hack_n": 8,
+  "hack_invisible_median": 0.517
+ }
+}

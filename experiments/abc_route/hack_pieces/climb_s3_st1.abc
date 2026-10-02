@@ -1,0 +1,10 @@
+X:1
+T:t
+M:4/4
+L:1/8
+Q:1/4=100
+K:C
+V:1 clef=treble
+.F3 F B .a a2 | .[Ag]3 .G .B4 | e .A2 .[fA]4 e | d2 .d .[AB] .c4 | .f3 E4 C | d .C [da]3 .C [gE] F | .[Ab]2 .[eG] .[DE] .d .G3 | G2 [Fd] .[eC]2 A .A2 | .F2 .F4 .B .[ea] | .[Dd]3 [dg]2 .[fA]2 d | .e4 [bA] .[Ac]2 .B | .[fA]2 G3 .f [cG]2 | E2 [aF] [ec]2 C2 .C | .[AF]4 .[Fd] .[DE] D .E | .d2 .d3 A .C G | A3 a .B2 .c2 |]
+V:2 clef=bass
+[E,D,]2 [A,,G,,] .E,4 [D,E,] | .B,,2 [E,,C,,]3 B,,2 .[F,C,] | D,, A,, C,3 .E,, .B,,2 | .F,, [A,,A,]4 .C,, C,, .C, | [F,,G,]4 .F, .C, [D,F,] F, | .E, .A,3 .[B,,A,]3 .A,, | G,2 .E,,2 B,,2 .C,,2 | .[C,,D,,]2 .[E,C,,]3 .[A,,G,] A,, .A,, | .[G,,E,]2 .F,,2 .B, C,, .G,, [D,,F,,] | .A,, A,,4 .D,,2 A, | .[B,C,]3 .C, .G,, .A,,3 | E,, .F,, F,2 C,,4 | .E,2 D,2 G,2 .B, .C,, | B,, .G,, [E,,A,]3 B,,2 .F, | A,2 C,4 B, .G, | [C,E,]2 .B,, E,2 D,,2 [E,,F,] |]

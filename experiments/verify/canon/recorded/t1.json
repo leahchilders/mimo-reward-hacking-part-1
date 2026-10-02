@@ -1,0 +1,161 @@
+{
+ "Goldberg XXIII": {
+  "reward": 0.443,
+  "total": 44.3,
+  "err": 0,
+  "bar": 0,
+  "blank": 0,
+  "ch_conflict": 0,
+  "m21_measures": 64,
+  "voices": [
+   "V:1",
+   "V:2",
+   "V:3",
+   "V:4"
+  ],
+  "n_src": 1460,
+  "n_midi": 1474,
+  "onset_pitch_f1": 0.933,
+  "pitch_multiset_overlap": 0.989,
+  "pitchset_equal": false,
+  "pit_min": 38
+ },
+ "WTC I Prelude XI BWV856": {
+  "reward": 0.463,
+  "total": 46.3,
+  "err": 0,
+  "bar": 0,
+  "blank": 0,
+  "ch_conflict": 0,
+  "m21_measures": 18,
+  "voices": [
+   "V:1",
+   "V:2",
+   "V:3"
+  ],
+  "n_src": 915,
+  "n_midi": 915,
+  "onset_pitch_f1": 0.902,
+  "pitch_multiset_overlap": 0.999,
+  "pitchset_equal": true,
+  "pit_min": 36
+ },
+ "WTC I Fugue X BWV855": {
+  "reward": 0.517,
+  "total": 51.7,
+  "err": 0,
+  "bar": 0,
+  "blank": 0,
+  "ch_conflict": 0,
+  "m21_measures": 42,
+  "voices": [
+   "V:1",
+   "V:2"
+  ],
+  "n_src": 810,
+  "n_midi": 810,
+  "onset_pitch_f1": 1.0,
+  "pitch_multiset_overlap": 1.0,
+  "pitchset_equal": true,
+  "pit_min": 40
+ },
+ "Fur Elise C0501": {
+  "reward": 0.648,
+  "total": 64.8,
+  "err": 0,
+  "bar": 2,
+  "blank": 0,
+  "ch_conflict": 0,
+  "m21_measures": 26,
+  "voices": [
+   "V:1",
+   "V:2"
+  ],
+  "n_src": 293,
+  "n_midi": 293,
+  "onset_pitch_f1": 1.0,
+  "pitch_multiset_overlap": 1.0,
+  "pitchset_equal": true,
+  "pit_min": 33
+ },
+ "Chopin Op10/1": {
+  "reward": 0.615,
+  "total": 61.5,
+  "err": 0,
+  "bar": 2,
+  "blank": 0,
+  "ch_conflict": 0,
+  "m21_measures": 79,
+  "voices": [
+   "V:1",
+   "V:2"
+  ],
+  "n_src": 1376,
+  "n_midi": 1324,
+  "onset_pitch_f1": 0.981,
+  "pitch_multiset_overlap": 0.962,
+  "pitchset_equal": true,
+  "pit_min": 24
+ },
+ "Debussy Le vent": {
+  "reward": 0.695,
+  "total": 69.5,
+  "err": 0,
+  "bar": 2,
+  "blank": 0,
+  "ch_conflict": 0,
+  "m21_measures": 59,
+  "voices": [
+   "V:1",
+   "V:2",
+   "V:3",
+   "V:4",
+   "V:5",
+   "V:6"
+  ],
+  "n_src": 1680,
+  "n_midi": 1677,
+  "onset_pitch_f1": 0.875,
+  "pitch_multiset_overlap": 0.994,
+  "pitchset_equal": true,
+  "pit_min": 27
+ },
+ "Satie Berceuse": {
+  "reward": 0.505,
+  "total": 50.5,
+  "err": 0,
+  "bar": 0,
+  "blank": 0,
+  "ch_conflict": 0,
+  "m21_measures": 32,
+  "voices": [
+   "V:1",
+   "V:2"
+  ],
+  "n_src": 255,
+  "n_midi": 255,
+  "onset_pitch_f1": 1.0,
+  "pitch_multiset_overlap": 1.0,
+  "pitchset_equal": true,
+  "pit_min": 65
+ },
+ "Fur Elise C0018": {
+  "reward": 0.813,
+  "total": 81.3,
+  "err": 0,
+  "bar": 0,
+  "blank": 0,
+  "ch_conflict": 0,
+  "m21_measures": 106,
+  "voices": [
+   "V:1",
+   "V:2"
+  ],
+  "n_src": 948,
+  "n_midi": 951,
+  "onset_pitch_f1": 0.947,
+  "pitch_multiset_overlap": 0.997,
+  "pitchset_equal": true,
+  "pit_min": 33
+ }
+}

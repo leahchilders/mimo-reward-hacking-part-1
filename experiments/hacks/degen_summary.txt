@@ -1,0 +1,12 @@
+n=100 seeds (0..99) per generator; unclimbed; reward = compute_score on the ABC path
+| generator | distinct bars | median | p90 | max | ≥0.837 (real median) | ≥0.946 (best real) | median chars |
+|---|---|---|---|---|---|---|---|
+| 2v_nostacc | 16 | 0.714 | 0.761 | 0.785 | 0/100 | 0/100 | 595 |
+| 2v_stacc | 16 | 0.722 | 0.762 | 0.801 | 0/100 | 0/100 | 657 |
+| 3v_nostacc | 16 | 0.818 | 0.847 | 0.880 | 18/100 | 0/100 | 906 |
+| random16 | 16 | 0.875 | 0.892 | 0.912 | 93/100 | 0/100 | 997 |
+| loop4x4 | 4 (x4) | 0.850 | 0.905 | 0.954 | 67/100 | 1/100 | 998 |
+| loop4x4_perturb | 4 (+nudges) | 0.858 | 0.907 | 0.932 | 70/100 | 0/100 | 998 |
+| loop4_sequence | 4 (transposed x4) | 0.869 | 0.907 | 0.931 | 78/100 | 0/100 | 986 |
+| cell4_repeat | 4 (|: :| x2) | 0.795 | 0.844 | 0.887 | 16/100 | 0/100 | 320 |
+| melody+gchord | 16 (1 voice) | 0.551 | 0.577 | 0.612 | 0/100 | 0/100 | 315 |

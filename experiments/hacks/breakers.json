@@ -1,0 +1,560 @@
+{
+ "base": 0.978,
+ "rows": [
+  {
+   "construct": "control: tie across barline  c8- | c8",
+   "abc21": "valid",
+   "spec": "4.11",
+   "reward": 0.9279999999999999,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 92.8,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | c8- | c8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "chord tie, same notes  [ce]8- | [ce]8",
+   "abc21": "valid",
+   "spec": "4.11/4.17",
+   "reward": 0.9229999999999999,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 92.3,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | [ce]8- | [ce]8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "tie chain  c2-c2-c4 | d8",
+   "abc21": "valid",
+   "spec": "4.11",
+   "reward": 0.9259999999999999,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 92.6,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | c2-c2-c4 | d8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "tie into slur  [ce]4- ([ce]2 d2) | c8",
+   "abc21": "valid",
+   "spec": "4.11 ('ties ... into, out of and between chords'; slurs may start on any note)",
+   "reward": 0.93,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 93.0,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | [ce]4- ([ce]2 d2) | c8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "tie inside slur, crossing bar  (c4 e4- | e2) d6",
+   "abc21": "valid",
+   "spec": "4.11",
+   "reward": 0.924,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 92.4,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | (c4 e4- | e2) d6 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "note-level tie inside chord  [c-e]8 | [cg]8",
+   "abc21": "valid",
+   "spec": "4.11/4.17/4.20",
+   "reward": 0.934,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 93.4,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | [c-e]8 | [cg]8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "chord-level tie, only one note continues  [ce]8- | c8",
+   "abc21": "spec-undefined",
+   "spec": "4.11 (tie joins notes 'of the same pitch'; e has none)",
+   "reward": 0.0,
+   "err": 1,
+   "bar": 0,
+   "ungated_total": 92.8,
+   "ch_conflict": 0,
+   "msgs": [
+    "Error : Could not find note to be tied"
+   ],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | [ce]8- | c8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "tie, accidental carried in bar  ^c4- c4 | d8",
+   "abc21": "valid",
+   "spec": "4.2 + 11.3 (accidentals propagate to end of bar)",
+   "reward": 0.9540000000000001,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 95.4,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | ^c4- c4 | d8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "tie across barline, accidental restated  ^c8- | ^c8",
+   "abc21": "valid",
+   "spec": "4.11",
+   "reward": 0.977,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 97.7,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | ^c8- | ^c8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "tie across barline, accidental NOT restated  ^c8- | c8",
+   "abc21": "spec-undefined",
+   "spec": "4.2/11.3 (accidental ends at bar line, so c is natural)",
+   "reward": 0.977,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 97.7,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | ^c8- | c8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "tie then decoration  c4- !p!c4 | d8",
+   "abc21": "valid",
+   "spec": "4.11/4.20",
+   "reward": 0.9259999999999999,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 92.6,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | c4- !p!c4 | d8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "tie then chord symbol  c4- \"G\"c4 | d8",
+   "abc21": "valid",
+   "spec": "4.11/4.20",
+   "reward": 0.934,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 93.4,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | c4- \"G\"c4 | d8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "tie then grace note  c4- {d}c4 | d8",
+   "abc21": "valid",
+   "spec": "4.11/4.12/4.20",
+   "reward": 0.0,
+   "err": 1,
+   "bar": 0,
+   "ungated_total": 92.4,
+   "ch_conflict": 0,
+   "msgs": [
+    "Error : Could not find note to be tied"
+   ],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | c4- {d}c4 | d8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "tie then inline field  c4- [Q:1/4=80] c4 | d8",
+   "abc21": "valid",
+   "spec": "4.11/7.3",
+   "reward": 0.9259999999999999,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 92.6,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | c4- [Q:1/4=80] c4 | d8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "tie into tuplet  c2- (3c2d2e2 f2 | d8",
+   "abc21": "valid",
+   "spec": "4.11/4.13",
+   "reward": 0.937,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 93.7,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | c2- (3c2d2e2 f2 | d8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "staccato on a tied note  .c4-c4 | d8",
+   "abc21": "valid",
+   "spec": "4.11/4.14/4.20 (decoration before note, tie after)",
+   "reward": 0.0,
+   "err": 1,
+   "bar": 0,
+   "ungated_total": 92.5,
+   "ch_conflict": 0,
+   "msgs": [
+    "Error : Cannot find note before tie"
+   ],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | .c4-c4 | d8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "dotted tie  c4.-c4 | d8",
+   "abc21": "valid",
+   "spec": "4.11 (dotted tie)",
+   "reward": 0.0,
+   "err": 1,
+   "bar": 0,
+   "ungated_total": 92.6,
+   "ch_conflict": 0,
+   "msgs": [
+    "Error : Malformed note : expecting a-g or A-G"
+   ],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | c4.-c4 | d8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "tie across voice-interleaved lines",
+   "abc21": "valid",
+   "spec": "4.11 + 7 (multiple voices: voice continues where it left off)",
+   "reward": 0.9209999999999999,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 92.1,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | c8- |\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 |\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 |\nV:1\nc8 | d8 |]\nV:2\nz8 | z8 |\nV:3\nz8 | z8 |]"
+  },
+  {
+   "construct": "tie to rest  c8- | z8",
+   "abc21": "INVALID",
+   "spec": "4.11 (tie joins two notes)",
+   "reward": 0.0,
+   "err": 1,
+   "bar": 0,
+   "ungated_total": 93.1,
+   "ch_conflict": 0,
+   "msgs": [
+    "Error : Could not find note to be tied"
+   ],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | c8- | z8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "tie to different pitch  c8- | d8",
+   "abc21": "INVALID",
+   "spec": "4.11 (same pitch)",
+   "reward": 0.9279999999999999,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 92.8,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | c8- | d8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "tie over invisible spacer  c4- x4 | c8",
+   "abc21": "INVALID",
+   "spec": "4.11/4.20 (tie must be followed by the tied note)",
+   "reward": 0.0,
+   "err": 1,
+   "bar": 0,
+   "ungated_total": 92.9,
+   "ch_conflict": 0,
+   "msgs": [
+    "Error : Could not find note to be tied"
+   ],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | c4- x4 | c8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "tie across octave  C8- | c8",
+   "abc21": "INVALID",
+   "spec": "4.11 (same pitch)",
+   "reward": 0.9279999999999999,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 92.8,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | C8- | c8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "triplets  (3cde (3fga (3bc'd' c'2 | c8",
+   "abc21": "valid",
+   "spec": "4.13",
+   "reward": 0.9309999999999999,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 93.1,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | (3cde (3fga (3bc'd' c'2 | c8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "quintuplets  (5cdefg (5gfedc c4 | c8",
+   "abc21": "valid",
+   "spec": "4.13",
+   "reward": 0.9309999999999999,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 93.1,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | (5cdefg (5gfedc c4 | c8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "nested tuplet  (3c2 (3ded c2 | c8",
+   "abc21": "spec-undefined",
+   "spec": "4.13 (nesting not described)",
+   "reward": 0.0,
+   "err": 1,
+   "bar": 1,
+   "ungated_total": 93.0,
+   "ch_conflict": 0,
+   "msgs": [
+    "Error : nested tuples",
+    "Warning : Different length notes in tuple",
+    "Warning : Track 1 Bar 16 has 17/6 time units while the time signature has 4"
+   ],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | (3c2 (3ded c2 | c8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "non-dyadic length  c8/3 c8/3 c8/3 | c8",
+   "abc21": "valid",
+   "spec": "4.3 ('note lengths that can't be translated ... are legal')",
+   "reward": 0.0,
+   "err": 3,
+   "bar": 1,
+   "ungated_total": 93.0,
+   "ch_conflict": 0,
+   "msgs": [
+    "Error : 3 b is not a power of 2",
+    "Warning : Track 1 Bar 16 has -12 time units while the time signature has 4",
+    "Warning : Track 2 is 72.054169 quarter notes long not 56.054165"
+   ],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | c8/3 c8/3 c8/3 | c8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "multi-measure rest  Z2 (all voices)",
+   "abc21": "valid",
+   "spec": "4.5",
+   "reward": 0.978,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 97.8,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | Z2 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | Z2 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | Z2 |]"
+  },
+  {
+   "construct": "invisible multi-measure rest  X2",
+   "abc21": "valid",
+   "spec": "4.5",
+   "reward": 0.978,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 97.8,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | X2 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | X2 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | X2 |]"
+  },
+  {
+   "construct": "voice overlay  c2d2e2f2 & C8 | c8",
+   "abc21": "valid",
+   "spec": "7.4",
+   "reward": 0.9279999999999999,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 92.8,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | c2d2e2f2 & C8 | c8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "inline meter change  [M:3/4] c6 | [M:4/4] c8 (all voices)",
+   "abc21": "valid",
+   "spec": "7.3",
+   "reward": 0.929,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 92.9,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | [M:3/4] c6 | [M:4/4] c8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | [M:3/4] z6 | [M:4/4] z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | [M:3/4] z6 | [M:4/4] z8 |]"
+  },
+  {
+   "construct": "inline key change  [K:Eb] e8 | [K:C] c8",
+   "abc21": "valid",
+   "spec": "7.3",
+   "reward": 0.968,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 96.8,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | [K:Eb] e8 | [K:C] c8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "broken rhythm between chords  [ce]>[df] c6 | c8",
+   "abc21": "valid",
+   "spec": "4.4",
+   "reward": 0.929,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 92.9,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | [ce]>[df] c6 | c8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "acciaccatura  {/g}c8 | c8",
+   "abc21": "valid",
+   "spec": "4.12",
+   "reward": 0.929,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 92.9,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | {/g}c8 | c8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "unequal chord lengths  [c2e4] d6 | c8",
+   "abc21": "valid",
+   "spec": "4.17 (chord takes first note's length)",
+   "reward": 0.93,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 93.0,
+   "ch_conflict": 0,
+   "msgs": [
+    "Warning : unequal notes in chord 1/1 versus 2/1"
+   ],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | [c2e4] d6 | c8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "segno shorthand  Sc8 | c8",
+   "abc21": "valid",
+   "spec": "4.14 (S = segno)",
+   "reward": 0.9279999999999999,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 92.8,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | Sc8 | c8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "!tenuto! decoration  !tenuto!c8 | c8",
+   "abc21": "non-standard extension",
+   "spec": "not in 4.14 list (abcm2ps extension)",
+   "reward": 0.9279999999999999,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 92.8,
+   "ch_conflict": 0,
+   "msgs": [
+    "Warning : instruction !tenuto! ignored"
+   ],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | !tenuto!c8 | c8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "!segno! + !D.S.!  !segno!c8 | !D.S.!c8",
+   "abc21": "valid",
+   "spec": "4.14",
+   "reward": 0.9279999999999999,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 92.8,
+   "ch_conflict": 0,
+   "msgs": [
+    "Warning : instruction !D.S.! ignored",
+    "Warning : instruction !segno! ignored"
+   ],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | !segno!c8 | !D.S.!c8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "first/second endings with tie  |: c8- |1 c8 :|2 c8",
+   "abc21": "valid",
+   "spec": "4.9/4.11",
+   "reward": 0.892,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 89.2,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | |: c8- |1 c8 :|2 c8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | |: z8 |1 z8 :|2 z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | |: z8 |1 z8 :|2 z8 |]"
+  },
+  {
+   "construct": "lyrics  w: line under V:1",
+   "abc21": "valid",
+   "spec": "5 (lyrics)",
+   "reward": 0.978,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 97.8,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b |]\nw: la la la la la la la la\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 |]"
+  },
+  {
+   "construct": "free-meter header  M:none (whole piece)",
+   "abc21": "valid",
+   "spec": "3.1.6",
+   "reward": 0.978,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 97.8,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:none\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 |]"
+  },
+  {
+   "construct": "pickup bar  c2 | at start of every voice",
+   "abc21": "valid",
+   "spec": "(anacrusis; any bar length legal)",
+   "reward": 0.9209999999999999,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 92.1,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\nC2 | .B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b |]\nV:2 clef=bass\nC2 | .D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 |]\nV:3 clef=treble\nC2 | [dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 |]"
+  },
+  {
+   "construct": "very high note  c'''' (MIDI 120)",
+   "abc21": "valid",
+   "spec": "4.1",
+   "reward": 0.883,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 88.3,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | c''''8 | c8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "pitch above MIDI range  c''''' (132)",
+   "abc21": "valid",
+   "spec": "4.1 (no range limit)",
+   "reward": 0.883,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 88.3,
+   "ch_conflict": 0,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | c'''''8 | c8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  },
+  {
+   "construct": "mid-voice program change  %%MIDI program 40",
+   "abc21": "non-standard extension",
+   "spec": "11 (%%MIDI is abc2midi-specific)",
+   "reward": 0.0,
+   "err": 0,
+   "bar": 0,
+   "ungated_total": 92.8,
+   "ch_conflict": 1,
+   "msgs": [],
+   "abc": "X:1\nT:climb\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1 clef=treble\n%%MIDI program 0\n.B2 d2 .E f3 | c .d3 .c c .A f | .g2 .f2 .D .c d a | .a4 .C4 | .g2 .C F .f .b3 | .G4 B4 | .c2 .d g3 B2 | .f E4 .E2 G | .C3 .f3 C2 | .E4 C4 | g3 .G3 .F2 | E2 A .G .G .g3 | E3 F d4 | .G3 g4 .e | .F4 G .A2 F | .d .A2 .C3 .f .b | c8 |\n%%MIDI program 40\nc8 |]\nV:2 clef=bass\n.D,,3 E,,3 [D,,A,,]2 | [A,G,,]2 .G,,3 F, .[E,C,] .E,, | A, .F, [G,,A,]2 .[G,,E,]4 | .G, G,2 .C, .[B,A,] .D,3 | C,,3 D,,3 .[E,,A,,] .[C,D,,] | [G,,B,]2 G,2 .[A,F,,]2 .D,,2 | G,,4 .E,,4 | .[D,,G,,] [C,D,]2 .[F,C,] G,, .[D,C,] .B, A,, | .A,, E,,4 .A,,3 | C,4 D,3 .[E,,B,] | .E,,4 .F,3 [D,B,,] | .[B,G,]2 D,,2 .G, .D, .D,2 | .G,,4 [A,,B,] G,3 | .C,, F,, [B,A,,]2 [E,G,,]4 | .G,,2 .G,,2 .[G,D,,]3 D,, | .C,4 [A,B,]4 | z8 | z8 |]\nV:3 clef=treble\n[dA]3 .[G,B,] [dB] [B,C] .B,2 | [EB,] .C .E .A,2 G, C [cd] | B,4 .C .c .C2 | [EB,] .[DF] c2 .e3 .e | E C3 .C2 .[G,c] e | .[G,B,]2 .[dG,]2 [GB]3 [DE] | c .F .e [AF] [Dc] .B [B,G]2 | .[eG] .A,4 [AD]2 B | .[GA] .[EA] [Bc]3 [Ec]2 .[CB,] | .B,2 .G, .C4 C | .c4 D3 .[cA,] | .e3 .d4 B, | E [A,G,]2 .G4 [dB] | [DG] .A,4 .G2 .[cA,] | .[EG]2 .A2 .[Dd]2 [Bc] .d | G3 [BG,] [DG,]4 | z8 | z8 |]"
+  }
+ ]
+}

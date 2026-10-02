@@ -1,0 +1,1198 @@
+[
+{
+"id": "A00",
+"title": "Maple Leaf Rag (Scott Joplin)",
+"s1": 0.8909999999999999,
+"ntempo": 11,
+"s1/2": 0.722,
+"audio1/2": [
+true,
+0.03880000000000905,
+0.0
+],
+"exact1/2": false,
+"near1/2": false,
+"s2": 0.828,
+"audio2": [
+true,
+0.019400000000018736,
+0.0
+],
+"exact2": false,
+"near2": true,
+"swing": 0.16899999999999993
+},
+{
+"id": "A02",
+"title": "Children's Corner - The Little Shepherd",
+"s1": 0.8240000000000001,
+"ntempo": 11,
+"s1/2": 0.872,
+"audio1/2": [
+true,
+0.06560000000000343,
+0.0
+],
+"exact1/2": false,
+"near1/2": false,
+"s2": 0.737,
+"audio2": [
+true,
+0.03279999999999461,
+0.0
+],
+"exact2": false,
+"near2": true,
+"swing": 0.135
+},
+{
+"id": "A03",
+"title": "Fr\u00e9d\u00e9ric Chopin: Prelude in C minor Op.28 No.20",
+"s1": 0.8340000000000001,
+"ntempo": 12,
+"s1/2": 0.818,
+"audio1/2": [
+true,
+0.19379999999999598,
+0.0
+],
+"exact1/2": false,
+"near1/2": false,
+"s2": 0.789,
+"audio2": [
+true,
+0.09680000000000177,
+0.0
+],
+"exact2": false,
+"near2": false,
+"swing": 0.04500000000000004
+},
+{
+"id": "A05",
+"title": "Waltz Op. 69 No. 2 - Urtext Edition - Fr\u00e9d\u00e9ric Chopin",
+"s1": 0.838,
+"ntempo": 1,
+"s1/2": 0.665,
+"audio1/2": [
+true,
+71.75000000000001,
+72.0
+],
+"exact1/2": false,
+"near1/2": false,
+"s2": 0.675,
+"audio2": [
+true,
+143.5,
+144.0
+],
+"exact2": false,
+"near2": false,
+"swing": 0.17299999999999993
+},
+{
+"id": "A06",
+"title": "Schumann - Album for the Young Op. 68 No. 16 First Grief",
+"s1": 0.932,
+"ntempo": 1,
+"s1/2": 0.9359999999999999,
+"audio1/2": [
+true,
+0.042200000000001125,
+0.00010000000000331966
+],
+"exact1/2": false,
+"near1/2": true,
+"s2": 0.7979999999999999,
+"audio2": [
+true,
+0.02120000000000033,
+0.00010000000000331966
+],
+"exact2": false,
+"near2": true,
+"swing": 0.138
+},
+{
+"id": "A07",
+"title": "Fr\u00e9d\u00e9ric Chopin: Fantaisie-impromptu in C-sharp minor Op.66",
+"s1": 0.86,
+"ntempo": 59,
+"s1/2": 0.6920000000000001,
+"audio1/2": [
+true,
+0.14670000000000982,
+0.09370000000001255
+],
+"exact1/2": false,
+"near1/2": true,
+"s2": 0.7859999999999999,
+"audio2": [
+true,
+0.0735000000000241,
+0.046699999999987085
+],
+"exact2": false,
+"near2": true,
+"swing": 0.16799999999999993
+},
+{
+"id": "A08",
+"title": "J.S. Bach Sinfonia No. 3 in D Major (3-part Invention)",
+"s1": 0.735,
+"ntempo": 1,
+"s1/2": 0.645,
+"audio1/2": [
+true,
+0.0015000000000000568,
+0.00010000000000331966
+],
+"exact1/2": true,
+"near1/2": true,
+"s2": 0.753,
+"audio2": [
+true,
+0.000800000000005241,
+0.00010000000000331966
+],
+"exact2": true,
+"near2": true,
+"swing": 0.10799999999999998
+},
+{
+"id": "A10",
+"title": "Erik Satie - Gnossienne n1",
+"s1": 0.802,
+"ntempo": 1,
+"s1/2": 0.872,
+"audio1/2": [
+true,
+0.016200000000011983,
+0.0
+],
+"exact1/2": false,
+"near1/2": true,
+"s2": 0.715,
+"audio2": [
+true,
+0.008100000000013097,
+0.0
+],
+"exact2": false,
+"near2": true,
+"swing": 0.15700000000000003
+},
+{
+"id": "A12",
+"title": "Piano Sonata No. 26 Movement 1 (Beethoven)",
+"s1": 0.855,
+"ntempo": 3,
+"s1/2": 0.943,
+"audio1/2": [
+true,
+0.1291000000000011,
+0.0
+],
+"exact1/2": false,
+"near1/2": true,
+"s2": 0.7290000000000001,
+"audio2": [
+true,
+0.06460000000000221,
+0.0012000000000398359
+],
+"exact2": false,
+"near2": true,
+"swing": 0.21399999999999986
+},
+{
+"id": "A17",
+"title": "Chopin - Waltz in A Minor (Piano Solo)",
+"s1": 0.799,
+"ntempo": 1,
+"s1/2": 0.687,
+"audio1/2": [
+true,
+0.02400000000000091,
+0.00010000000000331966
+],
+"exact1/2": false,
+"near1/2": true,
+"s2": 0.725,
+"audio2": [
+true,
+0.012000000000000455,
+0.0
+],
+"exact2": false,
+"near2": true,
+"swing": 0.11199999999999999
+},
+{
+"id": "A18",
+"title": "Turkish March",
+"s1": 0.835,
+"ntempo": 3,
+"s1/2": 0.647,
+"audio1/2": [
+false,
+"n 532 vs 526",
+null
+],
+"exact1/2": false,
+"near1/2": false,
+"s2": 0.866,
+"audio2": [
+false,
+"n 532 vs 544",
+null
+],
+"exact2": false,
+"near2": false,
+"swing": 0.21899999999999997
+},
+{
+"id": "A22",
+"title": "W.A. Mozart - Contredanse in A K. 15l",
+"s1": 0.94,
+"ntempo": 1,
+"s1/2": 0.85,
+"audio1/2": [
+true,
+0.025900000000000034,
+0.0
+],
+"exact1/2": false,
+"near1/2": true,
+"s2": 0.8140000000000001,
+"audio2": [
+true,
+0.01290000000000191,
+0.0
+],
+"exact2": false,
+"near2": true,
+"swing": 0.1259999999999999
+},
+{
+"id": "A23",
+"title": "Fr\u00e9d\u00e9ric Chopin - Nocturne n20 (posthume) en Do di\u00e8se mineur",
+"s1": 0.8009999999999999,
+"ntempo": 1,
+"s1/2": 0.6809999999999999,
+"audio1/2": [
+true,
+0.030600000000000627,
+0.0
+],
+"exact1/2": false,
+"near1/2": false,
+"s2": 0.75,
+"audio2": [
+true,
+0.015300000000003422,
+0.00010000000000331966
+],
+"exact2": false,
+"near2": true,
+"swing": 0.12
+},
+{
+"id": "A24",
+"title": "Clementi: Sonatina No. 1 Op 36",
+"s1": 0.94,
+"ntempo": 3,
+"s1/2": 0.83,
+"audio1/2": [
+true,
+0.022999999999996135,
+0.0
+],
+"exact1/2": false,
+"near1/2": true,
+"s2": 0.8079999999999999,
+"audio2": [
+true,
+0.011800000000022237,
+0.00030000000000995897
+],
+"exact2": false,
+"near2": true,
+"swing": 0.132
+},
+{
+"id": "A25",
+"title": "Schumann Album for the Young Op. 68 No. 15 Song of Spring",
+"s1": 0.946,
+"ntempo": 2,
+"s1/2": 0.93,
+"audio1/2": [
+true,
+0.03139999999999077,
+0.00010000000000331966
+],
+"exact1/2": false,
+"near1/2": false,
+"s2": 0.8140000000000001,
+"audio2": [
+true,
+0.015800000000012915,
+0.0002000000000066393
+],
+"exact2": false,
+"near2": true,
+"swing": 0.1319999999999999
+},
+{
+"id": "A26",
+"title": "Beethoven: Waltz in D Major WoO 85",
+"s1": 0.8320000000000001,
+"ntempo": 1,
+"s1/2": 0.679,
+"audio1/2": [
+true,
+0.018400000000001526,
+0.0
+],
+"exact1/2": false,
+"near1/2": true,
+"s2": 0.797,
+"audio2": [
+true,
+0.00910000000000366,
+0.0
+],
+"exact2": false,
+"near2": true,
+"swing": 0.15300000000000002
+},
+{
+"id": "A27",
+"title": "VALSE SENTIMENTALE Op. 50 No. 13",
+"s1": 0.8320000000000001,
+"ntempo": 1,
+"s1/2": 0.872,
+"audio1/2": [
+true,
+0.026300000000006207,
+0.0
+],
+"exact1/2": false,
+"near1/2": false,
+"s2": 0.727,
+"audio2": [
+true,
+0.013200000000011869,
+0.0
+],
+"exact2": false,
+"near2": true,
+"swing": 0.14500000000000002
+},
+{
+"id": "A28",
+"title": "Scarlatti: Sonata K.64 (Longo 58) - IMSLP Edition",
+"s1": 0.855,
+"ntempo": 1,
+"s1/2": 0.757,
+"audio1/2": [
+true,
+0.04760000000000275,
+0.00010000000000331966
+],
+"exact1/2": false,
+"near1/2": false,
+"s2": 0.855,
+"audio2": [
+true,
+0.0239000000000118,
+0.0002000000000066393
+],
+"exact2": false,
+"near2": true,
+"swing": 0.09799999999999998
+},
+{
+"id": "A30",
+"title": "Andante",
+"s1": 0.8220000000000001,
+"ntempo": 8,
+"s1/2": 0.6629999999999999,
+"audio1/2": [
+false,
+0.10089999999999577,
+0.2933000000000163
+],
+"exact1/2": false,
+"near1/2": false,
+"s2": 0.904,
+"audio2": [
+true,
+0.050499999999999545,
+0.0
+],
+"exact2": false,
+"near2": true,
+"swing": 0.2410000000000001
+},
+{
+"id": "A31",
+"title": "Beethoven: Ecossaise in G (WoO 23)",
+"s1": 0.813,
+"ntempo": 1,
+"s1/2": 0.518,
+"audio1/2": [
+true,
+0.011000000000002785,
+0.0
+],
+"exact1/2": false,
+"near1/2": true,
+"s2": 0.718,
+"audio2": [
+true,
+0.005500000000001393,
+0.0
+],
+"exact2": false,
+"near2": true,
+"swing": 0.29499999999999993
+},
+{
+"id": "A33",
+"title": "Mozart: Minuet in F (K. 2)",
+"s1": 0.7709999999999999,
+"ntempo": 1,
+"s1/2": 0.778,
+"audio1/2": [
+true,
+0.001300000000000523,
+0.0
+],
+"exact1/2": true,
+"near1/2": true,
+"s2": 0.728,
+"audio2": [
+true,
+0.0007000000000019213,
+0.0
+],
+"exact2": true,
+"near2": true,
+"swing": 0.050000000000000044
+},
+{
+"id": "A37",
+"title": "Fr\u00e9d\u00e9ric Chopin: \u00c9tude in G-sharp minor Op.25 No.6 Thirds",
+"s1": 0.7759999999999999,
+"ntempo": 24,
+"s1/2": 0.655,
+"audio1/2": [
+true,
+0.14679999999999893,
+0.0002000000000066393
+],
+"exact1/2": false,
+"near1/2": true,
+"s2": 0.8170000000000001,
+"audio2": [
+true,
+0.07330000000000325,
+0.00010000000000331966
+],
+"exact2": false,
+"near2": true,
+"swing": 0.16200000000000003
+},
+{
+"id": "A38",
+"title": "Scarlatti: Sonata K.64 (Longo 58) - PianoXML Edition",
+"s1": 0.902,
+"ntempo": 1,
+"s1/2": 0.77,
+"audio1/2": [
+true,
+0.04759999999998854,
+0.00010000000000331966
+],
+"exact1/2": false,
+"near1/2": true,
+"s2": 0.841,
+"audio2": [
+true,
+0.0239000000000118,
+0.0002000000000066393
+],
+"exact2": false,
+"near2": true,
+"swing": 0.132
+},
+{
+"id": "A39",
+"title": "Schubert-German Dance No 3 (D.420)",
+"s1": 0.746,
+"ntempo": 1,
+"s1/2": 0.799,
+"audio1/2": [
+true,
+0.00910000000000366,
+0.0
+],
+"exact1/2": false,
+"near1/2": true,
+"s2": 0.6679999999999999,
+"audio2": [
+true,
+0.00460000000000349,
+0.0
+],
+"exact2": true,
+"near2": true,
+"swing": 0.13100000000000012
+},
+{
+"id": "B00",
+"title": "T\u00c5i o\u00c5\u00ed\u0161ky pro Popelku - B\u00e1l (Drob\u00c4na)",
+"s1": 0.845,
+"ntempo": 1,
+"s1/2": 0.86,
+"audio1/2": [
+false,
+"n 676 vs 348",
+null
+],
+"exact1/2": false,
+"near1/2": false,
+"s2": 0.6859999999999999,
+"audio2": [
+false,
+"n 676 vs 348",
+null
+],
+"exact2": false,
+"near2": false,
+"swing": 0.17400000000000004
+},
+{
+"id": "B01",
+"title": "Intermezzo in F minor (original)",
+"s1": 0.755,
+"ntempo": 15,
+"s1/2": 0.823,
+"audio1/2": [
+false,
+0.11750000000000682,
+0.7827000000000055
+],
+"exact1/2": false,
+"near1/2": false,
+"s2": 0.643,
+"audio2": [
+false,
+0.05879999999999086,
+0.7827000000000055
+],
+"exact2": false,
+"near2": false,
+"swing": 0.17999999999999994
+},
+{
+"id": "B02",
+"title": "Boom-NCT Dream",
+"s1": 0.7609999999999999,
+"ntempo": 1,
+"s1/2": 0.7490000000000001,
+"audio1/2": [
+true,
+48.00000000000001,
+48.25
+],
+"exact1/2": false,
+"near1/2": false,
+"s2": 0.623,
+"audio2": [
+true,
+96.00000000000001,
+96.5
+],
+"exact2": false,
+"near2": false,
+"swing": 0.1379999999999999
+},
+{
+"id": "B03",
+"title": "Smile Smile Smile",
+"s1": 0.9059999999999999,
+"ntempo": 1,
+"s1/2": 0.9159999999999999,
+"audio1/2": [
+true,
+0.024900000000002365,
+0.0
+],
+"exact1/2": false,
+"near1/2": true,
+"s2": 0.735,
+"audio2": [
+true,
+0.01300000000000523,
+0.0006000000000199179
+],
+"exact2": false,
+"near2": true,
+"swing": 0.18099999999999994
+},
+{
+"id": "B05",
+"title": "Oscar Peterson - A Little Jazz Exercise (Jesus Molina)",
+"s1": 0.861,
+"ntempo": 5,
+"s1/2": 0.728,
+"audio1/2": [
+true,
+0.06320000000000192,
+0.0
+],
+"exact1/2": false,
+"near1/2": true,
+"s2": 0.85,
+"audio2": [
+true,
+0.03170000000000073,
+0.0002000000000066393
+],
+"exact2": false,
+"near2": true,
+"swing": 0.133
+},
+{
+"id": "B06",
+"title": "The Glorious State Anthem of the Soviet Union (solo piano)",
+"s1": 0.8809999999999999,
+"ntempo": 1,
+"s1/2": 0.9359999999999999,
+"audio1/2": [
+true,
+0.14220000000000255,
+0.0
+],
+"exact1/2": false,
+"near1/2": true,
+"s2": 0.765,
+"audio2": [
+true,
+0.07110000000000127,
+0.0
+],
+"exact2": false,
+"near2": true,
+"swing": 0.17099999999999993
+},
+{
+"id": "B07",
+"title": "Escape - Darling in the FranXX",
+"s1": 0.861,
+"ntempo": 1,
+"s1/2": 0.892,
+"audio1/2": [
+true,
+0.01880000000001303,
+0.0
+],
+"exact1/2": false,
+"near1/2": true,
+"s2": 0.718,
+"audio2": [
+true,
+0.009600000000006048,
+0.00030000000000995897
+],
+"exact2": false,
+"near2": true,
+"swing": 0.17400000000000004
+},
+{
+"id": "B08",
+"title": "Pickles and Peppers (1906)",
+"s1": 0.909,
+"ntempo": 1,
+"s1/2": 0.7340000000000001,
+"audio1/2": [
+true,
+0.043199999999984584,
+0.0002000000000066393
+],
+"exact1/2": false,
+"near1/2": false,
+"s2": 0.867,
+"audio2": [
+true,
+0.021600000000006503,
+0.0
+],
+"exact2": false,
+"near2": true,
+"swing": 0.17499999999999993
+},
+{
+"id": "B09",
+"title": "Soft Windflower",
+"s1": 0.8590000000000001,
+"ntempo": 1,
+"s1/2": 0.91,
+"audio1/2": [
+true,
+0.12659999999999627,
+0.0002000000000066393
+],
+"exact1/2": false,
+"near1/2": false,
+"s2": 0.7290000000000001,
+"audio2": [
+true,
+0.06320000000002324,
+0.0
+],
+"exact2": false,
+"near2": false,
+"swing": 0.18099999999999994
+},
+{
+"id": "B11",
+"title": "The Name of Life",
+"s1": 0.927,
+"ntempo": 13,
+"s1/2": 0.935,
+"audio1/2": [
+true,
+0.12649999999996453,
+0.002599999999972624
+],
+"exact1/2": false,
+"near1/2": false,
+"s2": 0.743,
+"audio2": [
+true,
+0.06319999999999482,
+0.0007000000000516593
+],
+"exact2": false,
+"near2": true,
+"swing": 0.19200000000000006
+},
+{
+"id": "B13",
+"title": "La Pastorale",
+"s1": 0.878,
+"ntempo": 1,
+"s1/2": 0.872,
+"audio1/2": [
+false,
+0.038800000000001944,
+0.8250000000000028
+],
+"exact1/2": false,
+"near1/2": false,
+"s2": 0.794,
+"audio2": [
+true,
+0.019400000000004525,
+0.0
+],
+"exact2": false,
+"near2": true,
+"swing": 0.08399999999999996
+},
+{
+"id": "B16",
+"title": "Jisas Yu Holem Han Blong Mi - Choir SATB",
+"s1": 0.77,
+"ntempo": 1,
+"s1/2": 0.765,
+"audio1/2": [
+true,
+0.013700000000000045,
+0.0014000000000038426
+],
+"exact1/2": false,
+"near1/2": true,
+"s2": 0.6709999999999999,
+"audio2": [
+true,
+0.006999999999990791,
+0.0007000000000019213
+],
+"exact2": false,
+"near2": true,
+"swing": 0.09900000000000009
+},
+{
+"id": "B17",
+"title": "Canticle of the Turning (Piano)",
+"s1": 0.743,
+"ntempo": 1,
+"s1/2": 0.795,
+"audio1/2": [
+true,
+0.017900000000011573,
+0.0009000000000014552
+],
+"exact1/2": false,
+"near1/2": true,
+"s2": 0.684,
+"audio2": [
+true,
+0.00920000000000698,
+0.0005000000000023874
+],
+"exact2": false,
+"near2": true,
+"swing": 0.11099999999999999
+},
+{
+"id": "B18",
+"title": "Telemann: Fantasia in G Major",
+"s1": 0.815,
+"ntempo": 1,
+"s1/2": 0.8190000000000001,
+"audio1/2": [
+true,
+0.0007000000000019213,
+0.0
+],
+"exact1/2": true,
+"near1/2": true,
+"s2": 0.726,
+"audio2": [
+true,
+0.0006000000000057071,
+0.00019999999999953388
+],
+"exact2": true,
+"near2": true,
+"swing": 0.09300000000000008
+},
+{
+"id": "B20",
+"title": "Westworld - Sweetwater",
+"s1": 0.893,
+"ntempo": 1,
+"s1/2": 0.9309999999999999,
+"audio1/2": [
+true,
+0.030600000000006844,
+0.0
+],
+"exact1/2": false,
+"near1/2": false,
+"s2": 0.764,
+"audio2": [
+true,
+0.015300000000010527,
+0.0
+],
+"exact2": false,
+"near2": true,
+"swing": 0.16699999999999993
+},
+{
+"id": "B21",
+"title": "Stardew Valley - Ghost Synth (Fall)",
+"s1": 0.746,
+"ntempo": 1,
+"s1/2": 0.825,
+"audio1/2": [
+true,
+71.87500000000001,
+72.125
+],
+"exact1/2": false,
+"near1/2": false,
+"s2": 0.672,
+"audio2": [
+true,
+143.75,
+144.25
+],
+"exact2": false,
+"near2": false,
+"swing": 0.1529999999999999
+},
+{
+"id": "B22",
+"title": "Fullmetal Alchemist Brotherhood - Requiem For The Brigadier ",
+"s1": 0.81,
+"ntempo": 1,
+"s1/2": 0.897,
+"audio1/2": [
+true,
+0.12709999999998445,
+0.020899999999999253
+],
+"exact1/2": false,
+"near1/2": true,
+"s2": 0.738,
+"audio2": [
+true,
+0.0636000000000081,
+0.010400000000000631
+],
+"exact2": false,
+"near2": true,
+"swing": 0.15900000000000003
+},
+{
+"id": "B23",
+"title": "Starlight \u00e3\u00b9\u00e3\u00e3\u00e3\u00e3\u00e3 - EPILOGUE // FINALE - Revue Starlight OST",
+"s1": 0.9,
+"ntempo": 15,
+"s1/2": 0.83,
+"audio1/2": [
+true,
+0.3024999999999949,
+0.00010000000000331966
+],
+"exact1/2": false,
+"near1/2": false,
+"s2": 0.8240000000000001,
+"audio2": [
+true,
+0.1513000000000062,
+0.00010000000000331966
+],
+"exact2": false,
+"near2": true,
+"swing": 0.07599999999999996
+},
+{
+"id": "B25",
+"title": "Soir\u00e9e Polka - Stephen C. Foster - 1850",
+"s1": 0.7929999999999999,
+"ntempo": 1,
+"s1/2": 0.614,
+"audio1/2": [
+true,
+47.75000000000001,
+47.875
+],
+"exact1/2": false,
+"near1/2": false,
+"s2": 0.905,
+"audio2": [
+true,
+95.50000000000001,
+95.75
+],
+"exact2": false,
+"near2": false,
+"swing": 0.29100000000000004
+},
+{
+"id": "B26",
+"title": "Tachanka (T\u00d0\u00d1\u00d0\u00d0\u00bd\u00d0\u00ba\u00d0)",
+"s1": 0.882,
+"ntempo": 1,
+"s1/2": 0.894,
+"audio1/2": [
+true,
+0.042399999999993554,
+0.0
+],
+"exact1/2": false,
+"near1/2": true,
+"s2": 0.75,
+"audio2": [
+true,
+0.02130000000000365,
+0.00019999999999953388
+],
+"exact2": false,
+"near2": true,
+"swing": 0.14400000000000002
+},
+{
+"id": "B28",
+"title": "Adrienne & Adrianne - Vulfpeck (Piano)",
+"s1": 0.845,
+"ntempo": 1,
+"s1/2": 0.8220000000000001,
+"audio1/2": [
+false,
+"n 1638 vs 1126",
+null
+],
+"exact1/2": false,
+"near1/2": false,
+"s2": 0.77,
+"audio2": [
+false,
+"n 1638 vs 1126",
+null
+],
+"exact2": false,
+"near2": false,
+"swing": 0.07499999999999996
+},
+{
+"id": "B30",
+"title": "Trauma - NF - Piano Accompany",
+"s1": 0.812,
+"ntempo": 1,
+"s1/2": 0.816,
+"audio1/2": [
+true,
+0.07450000000000045,
+0.0
+],
+"exact1/2": false,
+"near1/2": false,
+"s2": 0.721,
+"audio2": [
+true,
+0.0373000000000161,
+0.0
+],
+"exact2": false,
+"near2": true,
+"swing": 0.09499999999999997
+},
+{
+"id": "B32",
+"title": "When I Survey The Wondrous Cross (arrangement)",
+"s1": 0.856,
+"ntempo": 5,
+"s1/2": 0.922,
+"audio1/2": [
+true,
+0.08490000000000464,
+0.0002000000000066393
+],
+"exact1/2": false,
+"near1/2": true,
+"s2": 0.753,
+"audio2": [
+true,
+0.04229999999998313,
+0.0
+],
+"exact2": false,
+"near2": true,
+"swing": 0.16900000000000004
+},
+{
+"id": "B34",
+"title": "B\u00e9la Bart\u00f3k 14 Bagatelles 3. Andante",
+"s1": 0.414,
+"ntempo": 3,
+"s1/2": 0.21,
+"audio1/2": [
+true,
+0.0016999999999995907,
+0.0
+],
+"exact1/2": true,
+"near1/2": true,
+"s2": 0.445,
+"audio2": [
+true,
+0.0009000000000014552,
+9.999999999621423e-05
+],
+"exact2": true,
+"near2": true,
+"swing": 0.23500000000000001
+},
+{
+"id": "B35",
+"title": "Hidden Track - Pennywise",
+"s1": 0.809,
+"ntempo": 38,
+"s1/2": 0.785,
+"audio1/2": [
+true,
+0.1108000000000402,
+0.00020000000006348273
+],
+"exact1/2": false,
+"near1/2": false,
+"s2": 0.731,
+"audio2": [
+true,
+0.05570000000000164,
+0.0004000000000132786
+],
+"exact2": false,
+"near2": true,
+"swing": 0.07800000000000007
+},
+{
+"id": "B37",
+"title": "Canon in Dark",
+"s1": 0.878,
+"ntempo": 75,
+"s1/2": 0.89,
+"audio1/2": [
+true,
+0.18959999999999866,
+0.00010000000003174137
+],
+"exact1/2": false,
+"near1/2": false,
+"s2": 0.7340000000000001,
+"audio2": [
+true,
+0.09479999999999222,
+0.00010000000003174137
+],
+"exact2": false,
+"near2": true,
+"swing": 0.15599999999999992
+},
+{
+"id": "B38",
+"title": "The Rains Of Castamere",
+"s1": 0.8220000000000001,
+"ntempo": 1,
+"s1/2": 0.8290000000000001,
+"audio1/2": [
+true,
+0.14220000000000255,
+0.15630000000000166
+],
+"exact1/2": false,
+"near1/2": true,
+"s2": 0.6890000000000001,
+"audio2": [
+true,
+0.07110000000000127,
+0.07809999999999206
+],
+"exact2": false,
+"near2": true,
+"swing": 0.14
+},
+{
+"id": "B39",
+"title": "Orange Blossom Waltz",
+"s1": 0.8759999999999999,
+"ntempo": 1,
+"s1/2": 0.8390000000000001,
+"audio1/2": [
+false,
+0.022700000000000387,
+0.32330000000000325
+],
+"exact1/2": false,
+"near1/2": false,
+"s2": 0.746,
+"audio2": [
+true,
+0.011600000000001387,
+0.00030000000000995897
+],
+"exact2": false,
+"near2": true,
+"swing": 0.1299999999999999
+}
+]

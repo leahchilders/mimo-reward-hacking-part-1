@@ -1,0 +1,12 @@
+X:1
+T:climb
+M:4/4
+L:1/8
+Q:1/4=100
+K:C
+V:1 clef=treble
+d4 D4 | D4 C4 | G3 f3 G A | C2 f2 A3 g | b2 f b2 F F2 | D b g3 A2 e | e3 F2 c b A | E2 g2 b2 G d | d4 c4 | A4 G4 | g4 C2 B a | D3 G g3 G | C3 E2 d2 f | c3 f2 g b2 | E G4 b A A | D2 d a4 F |]
+V:2 clef=bass
+B, C,3 A,,3 E,, | [D,B,,]2 B,, G,,4 E,, | [A,,F,] G,3 C,,4 | [F,,B,,] [B,,G,,]3 [E,,C,,] [E,,G,,] B, E,, | E,,2 B,,3 G,,3 | A,2 C,,2 B,, D,3 | [F,E,] C,4 D,,2 [B,C,] | F,,2 A,,4 G,, B, | A,4 B,,3 G, | C,,4 [D,E,] D,,2 A,, | B,3 A, D,2 G,,2 | F,,2 [B,D,] D,4 D,, | G,,4 A, G,,3 | G,2 E,,4 E,2 | D,4 [E,,F,,]3 [G,,A,,] | G,4 B,4 |]
+V:3 clef=treble
+[A,E] G4 F2 e | [EG] [AD]4 [B,E] G2 | [FB] [G,c] [G,c]2 [dB,] G2 [BB,] | G E2 G [BD] [GB,] G,2 | [AC] C C4 [ED] G | G,2 c2 G,4 | [DA,] c2 G,3 [A,e] B, | e3 [AB,] [DA]2 [Ad] [A,c] | d3 G3 [ec] [EA,] | B3 e4 [dG] | [Fd]2 [cF] G4 A, | [cE] [Gd]4 D c2 | [Bd] [dA]2 [A,c] [AB]3 [B,d] | [DG,]2 B4 A [AB] | C3 G3 [AE]2 | A,3 D3 [GB] [G,E] |]

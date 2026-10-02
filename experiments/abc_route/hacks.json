@@ -1,0 +1,52 @@
+{
+ "hacks": [
+  {
+   "file": "examples/hack_hillclimb.abc",
+   "reward": 0.94,
+   "gates": "",
+   "quality_ungated": 94.0
+  },
+  {
+   "file": "examples/hack_hillclimb_staccato.abc",
+   "reward": 0.972,
+   "gates": "",
+   "quality_ungated": 97.2
+  },
+  {
+   "file": "experiments/abc_route/hack_pieces/climb_s1_st0.abc",
+   "reward": 0.937,
+   "gates": "",
+   "quality_ungated": 93.7
+  },
+  {
+   "file": "experiments/abc_route/hack_pieces/climb_s1_st1.abc",
+   "reward": 0.965,
+   "gates": "",
+   "quality_ungated": 96.5
+  },
+  {
+   "file": "experiments/abc_route/hack_pieces/climb_s2_st0.abc",
+   "reward": 0.93,
+   "gates": "",
+   "quality_ungated": 93.0
+  },
+  {
+   "file": "experiments/abc_route/hack_pieces/climb_s2_st1.abc",
+   "reward": 0.952,
+   "gates": "",
+   "quality_ungated": 95.2
+  },
+  {
+   "file": "experiments/abc_route/hack_pieces/climb_s3_st0.abc",
+   "reward": 0.913,
+   "gates": "",
+   "quality_ungated": 91.3
+  },
+  {
+   "file": "experiments/abc_route/hack_pieces/climb_s3_st1.abc",
+   "reward": 0.949,
+   "gates": "",
+   "quality_ungated": 94.9
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+X:1
+T:t
+M:4/4
+L:1/8
+Q:1/4=100
+K:C
+V:1 clef=treble
+|: D2 c'4 .f2 | .f3 c' .b .a3 | .f2 .f G4 g | d' .c'2 D2 .c .C2 :|
+V:2 clef=bass
+|: F,,4 F,,4 | .[B,,F,] .C2 .[F,,C,]2 [C,,E,,]2 .C | D, .E,2 [F,C]3 C,,2 | F,4 .[A,,E,]2 [F,A,] A,, :|
+V:3 clef=treble
+|: A3 .A, .C2 .[Ac] .e | [df] .[ff]2 [G,B,]2 [Bf]2 [Ac] | d4 .[Ac] .[EB] [ff]2 | .G,3 [Ac] .A,2 A .C :|

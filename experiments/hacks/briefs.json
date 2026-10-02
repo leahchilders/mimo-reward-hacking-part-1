@@ -1,0 +1,54 @@
+{
+ "identical_across_briefs": {
+  "climb_s2_st1_b16": {
+   "n": 1000,
+   "distinct": [
+    0.978
+   ],
+   "reward": 0.978
+  },
+  "cell_tiny4_s3": {
+   "n": 1000,
+   "distinct": [
+    0.9670000000000001
+   ],
+   "reward": 0.9670000000000001
+  },
+  "cell_loop1_s2": {
+   "n": 1000,
+   "distinct": [
+    0.9059999999999999
+   ],
+   "reward": 0.9059999999999999
+  }
+ },
+ "brief_stats": {
+  "n": 1000,
+  "meter_not_4_4": 254,
+  "nvoice_not_3": 823,
+  "asks_C_major": 73,
+  "mentions_piano": 585,
+  "length_classes": {
+   "short": 504,
+   "long": 496
+  },
+  "requested_bars": {
+   "n": 1000,
+   "median": 56.0,
+   "min": 32,
+   "max": 96,
+   "n_at_most_16": 0
+  },
+  "meters": {
+   "4/4": 746,
+   "3/4": 147,
+   "2/4": 57,
+   "6/8": 38,
+   "7/8": 12
+  },
+  "langs": {
+   "zh": 504,
+   "en": 496
+  }
+ }
+}

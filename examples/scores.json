@@ -1,0 +1,79 @@
+{
+ "hack_hillclimb_staccato": {
+  "reward": 0.972,
+  "reject": 0,
+  "groups": {
+   "rhythm": 100.0,
+   "texture": 100.0,
+   "acoustic": 100.0,
+   "tonal": 100.0,
+   "register": 100.0,
+   "structure": 100.0
+  }
+ },
+ "hack_hillclimb": {
+  "reward": 0.94,
+  "reject": 0,
+  "groups": {
+   "rhythm": 89.4,
+   "texture": 100.0,
+   "acoustic": 100.0,
+   "tonal": 100.0,
+   "register": 100.0,
+   "structure": 100.0
+  }
+ },
+ "hack_hillclimb_16bar": {
+  "reward": 0.978,
+  "reject": 0,
+  "groups": {
+   "rhythm": 100.0,
+   "texture": 100.0,
+   "acoustic": 100.0,
+   "tonal": 100.0,
+   "register": 100.0,
+   "structure": 100.0
+  }
+ },
+ "hack_wrong_brief_quartet": {
+  "reward": 0.762,
+  "reject": 0,
+  "groups": {
+   "rhythm": 57.7,
+   "texture": 86.8,
+   "acoustic": 100.0,
+   "tonal": 42.5,
+   "register": 100.0,
+   "structure": 97.3
+  }
+ },
+ "twinkle_melody_only": {
+  "reward": 0.186,
+  "reject": 0,
+  "groups": {
+   "rhythm": 29.4,
+   "texture": 16.7,
+   "acoustic": 0.0,
+   "tonal": 40.2,
+   "register": 0.0,
+   "structure": 33.3
+  }
+ },
+ "twinkle_with_bass": {
+  "reward": 0.506,
+  "reject": 0,
+  "groups": {
+   "rhythm": 29.4,
+   "texture": 96.0,
+   "acoustic": 100.0,
+   "tonal": 83.3,
+   "register": 18.5,
+   "structure": 16.7
+  }
+ },
+ "twinkle_blank_line": {
+  "reward": 0.0,
+  "reject": 1,
+  "groups": null
+ }
+}

@@ -1,0 +1,6 @@
+melody                                 median 0.305  min 0.269 max 0.364
++audible drone                         median 0.609  min 0.555 max 0.653
++silent drone (ctl7=0)                 median 0.609  min 0.555 max 0.653
++silent drone (vel 0 via !pppp!?)      median 0.609  min 0.555 max 0.653
+silent drone alone                     median 0.346  min 0.346 max 0.346
+silent - audible: max abs diff 0.0

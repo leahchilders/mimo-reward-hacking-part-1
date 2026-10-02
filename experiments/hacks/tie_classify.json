@@ -1,0 +1,304 @@
+[
+ {
+  "id": "A01",
+  "title": "Debussy Prelude Book 2 No 5 Bruy\u00e8res",
+  "tie_errors": 20,
+  "classes": {
+   "ok_same_pitch": 65,
+   "tie_to_invisible_spacer_x": 6
+  },
+  "tie_errors_after_dropping_invalid_or_undefined": 0,
+  "tie_errors_after_also_dropping_grace": 0,
+  "reward_after_drop": 0.8909999999999999,
+  "other_errors_after": 0,
+  "bar_after": 0
+ },
+ {
+  "id": "A09",
+  "title": "Wall Street Rag - Scott Joplin - 1909",
+  "tie_errors": 11,
+  "classes": {
+   "ok_same_pitch": 46,
+   "partial_chord_tie": 4,
+   "tie_to_invisible_spacer_x": 4
+  },
+  "tie_errors_after_dropping_invalid_or_undefined": 0,
+  "tie_errors_after_also_dropping_grace": 0,
+  "reward_after_drop": 0.9329999999999999,
+  "other_errors_after": 0,
+  "bar_after": 0
+ },
+ {
+  "id": "A11",
+  "title": "Schubert/Liszt - St\u00e4ndchen",
+  "tie_errors": 21,
+  "classes": {
+   "ok_same_pitch": 9,
+   "tie_to_different_pitch": 6,
+   "tie_to_other_octave": 2,
+   "tie_to_invisible_spacer_x": 2
+  },
+  "tie_errors_after_dropping_invalid_or_undefined": 12,
+  "tie_errors_after_also_dropping_grace": 12,
+  "reward_after_drop": 0.0,
+  "other_errors_after": 10,
+  "bar_after": 23
+ },
+ {
+  "id": "A13",
+  "title": "A Real Slow Drag - Scott Joplin - 1913",
+  "tie_errors": 13,
+  "classes": {
+   "ok_same_pitch": 75,
+   "partial_chord_tie": 4,
+   "tie_to_invisible_spacer_x": 5
+  },
+  "tie_errors_after_dropping_invalid_or_undefined": 0,
+  "tie_errors_after_also_dropping_grace": 0,
+  "reward_after_drop": 0.935,
+  "other_errors_after": 0,
+  "bar_after": 4
+ },
+ {
+  "id": "A14",
+  "title": "Franz Liszt: Hungarian Rhapsody No.6 in ",
+  "tie_errors": 2,
+  "classes": {
+   "ok_same_pitch": 34
+  },
+  "tie_errors_after_dropping_invalid_or_undefined": 2,
+  "tie_errors_after_also_dropping_grace": 2,
+  "reward_after_drop": 0.0,
+  "other_errors_after": 70,
+  "bar_after": 0
+ },
+ {
+  "id": "A15",
+  "title": "The Entertainer - Scott Joplin - 1902",
+  "tie_errors": 1,
+  "classes": {
+   "ok_same_pitch": 72,
+   "partial_chord_tie": 1
+  },
+  "tie_errors_after_dropping_invalid_or_undefined": 0,
+  "tie_errors_after_also_dropping_grace": 0,
+  "reward_after_drop": 0.972,
+  "other_errors_after": 0,
+  "bar_after": 0
+ },
+ {
+  "id": "A16",
+  "title": "Chopin Ballade No. 1 (Complete) Piano so",
+  "tie_errors": 1,
+  "classes": {
+   "ok_same_pitch": 58,
+   "tie_to_invisible_spacer_x": 1
+  },
+  "tie_errors_after_dropping_invalid_or_undefined": 0,
+  "tie_errors_after_also_dropping_grace": 0,
+  "reward_after_drop": 0.0,
+  "other_errors_after": 1,
+  "bar_after": 33
+ },
+ {
+  "id": "A19",
+  "title": "Schumann - Album for the Young Op. 68 No",
+  "tie_errors": 4,
+  "classes": {
+   "ok_same_pitch": 12,
+   "partial_chord_tie": 2,
+   "tie_to_invisible_spacer_x": 2
+  },
+  "tie_errors_after_dropping_invalid_or_undefined": 0,
+  "tie_errors_after_also_dropping_grace": 0,
+  "reward_after_drop": 0.8,
+  "other_errors_after": 0,
+  "bar_after": 0
+ },
+ {
+  "id": "A20",
+  "title": "Peacherine Rag - Scott Joplin - 1901",
+  "tie_errors": 1,
+  "classes": {
+   "ok_same_pitch": 39,
+   "partial_chord_tie": 1
+  },
+  "tie_errors_after_dropping_invalid_or_undefined": 0,
+  "tie_errors_after_also_dropping_grace": 0,
+  "reward_after_drop": 0.895,
+  "other_errors_after": 0,
+  "bar_after": 0
+ },
+ {
+  "id": "A21",
+  "title": "Paragon Rag - Scott Joplin - 1909",
+  "tie_errors": 22,
+  "classes": {
+   "ok_same_pitch": 49,
+   "partial_chord_tie": 4,
+   "tie_to_rest_or_spacer": 1,
+   "tie_to_invisible_spacer_x": 6
+  },
+  "tie_errors_after_dropping_invalid_or_undefined": 0,
+  "tie_errors_after_also_dropping_grace": 0,
+  "reward_after_drop": 0.978,
+  "other_errors_after": 0,
+  "bar_after": 0
+ },
+ {
+  "id": "A29",
+  "title": "Chopin Nocturne in E Minor Op. 72 No. 1",
+  "tie_errors": 1,
+  "classes": {
+   "ok_same_pitch": 16,
+   "tie_to_different_pitch": 1
+  },
+  "tie_errors_after_dropping_invalid_or_undefined": 0,
+  "tie_errors_after_also_dropping_grace": 0,
+  "reward_after_drop": 0.0,
+  "other_errors_after": 48,
+  "bar_after": 16
+ },
+ {
+  "id": "A32",
+  "title": "J.S. Bach - Toccata & Fugue in D minor B",
+  "tie_errors": 1,
+  "classes": {
+   "ok_same_pitch": 34,
+   "tie_to_different_pitch": 1
+  },
+  "tie_errors_after_dropping_invalid_or_undefined": 0,
+  "tie_errors_after_also_dropping_grace": 0,
+  "reward_after_drop": 0.0,
+  "other_errors_after": 0,
+  "bar_after": 23
+ },
+ {
+  "id": "A35",
+  "title": "\u00c9tude after Paganini's 19th Caprice - R.",
+  "tie_errors": 3,
+  "classes": {
+   "tie_to_other_octave": 3,
+   "ok_same_pitch": 3
+  },
+  "tie_errors_after_dropping_invalid_or_undefined": 0,
+  "tie_errors_after_also_dropping_grace": 0,
+  "reward_after_drop": 0.0,
+  "other_errors_after": 0,
+  "bar_after": 17
+ },
+ {
+  "id": "A36",
+  "title": "Nocturne (F.ChopinOp.9. No.2)",
+  "tie_errors": 1,
+  "classes": {
+   "ok_same_pitch": 8,
+   "tie_to_invisible_spacer_x": 1
+  },
+  "tie_errors_after_dropping_invalid_or_undefined": 0,
+  "tie_errors_after_also_dropping_grace": 0,
+  "reward_after_drop": 0.0,
+  "other_errors_after": 0,
+  "bar_after": 10
+ },
+ {
+  "id": "B10",
+  "title": "Corona March (1911)",
+  "tie_errors": 1,
+  "classes": {
+   "ok_same_pitch": 23
+  },
+  "tie_errors_after_dropping_invalid_or_undefined": 1,
+  "tie_errors_after_also_dropping_grace": 1,
+  "reward_after_drop": 0.0,
+  "other_errors_after": 0,
+  "bar_after": 0
+ },
+ {
+  "id": "B12",
+  "title": "Believe me if all those endearing young ",
+  "tie_errors": 2,
+  "classes": {
+   "ok_same_pitch": 26,
+   "tie_to_different_pitch": 2
+  },
+  "tie_errors_after_dropping_invalid_or_undefined": 0,
+  "tie_errors_after_also_dropping_grace": 0,
+  "reward_after_drop": 0.0,
+  "other_errors_after": 1,
+  "bar_after": 0
+ },
+ {
+  "id": "B24",
+  "title": "Aleksandr Scriabin - Piano Sonata No. 6 ",
+  "tie_errors": 2,
+  "classes": {
+   "ok_same_pitch": 28,
+   "tie_to_different_pitch": 2
+  },
+  "tie_errors_after_dropping_invalid_or_undefined": 0,
+  "tie_errors_after_also_dropping_grace": 0,
+  "reward_after_drop": 0.71,
+  "other_errors_after": 0,
+  "bar_after": 0
+ },
+ {
+  "id": "B27",
+  "title": "FERAL op. 1 0 9 no.1 from 3 DELINQUENT (",
+  "tie_errors": 3,
+  "classes": {
+   "ok_same_pitch": 97,
+   "tie_to_rest_or_spacer": 1
+  },
+  "tie_errors_after_dropping_invalid_or_undefined": 2,
+  "tie_errors_after_also_dropping_grace": 2,
+  "reward_after_drop": 0.0,
+  "other_errors_after": 1,
+  "bar_after": 1
+ },
+ {
+  "id": "B31",
+  "title": "Jingle Bells - Jazz Piano",
+  "tie_errors": 1,
+  "classes": {
+   "ok_same_pitch": 20,
+   "tie_to_other_octave": 2
+  },
+  "tie_errors_after_dropping_invalid_or_undefined": 0,
+  "tie_errors_after_also_dropping_grace": 0,
+  "reward_after_drop": 0.88,
+  "other_errors_after": 0,
+  "bar_after": 1
+ },
+ {
+  "id": "B33",
+  "title": "\u00c0 la mani\u00e8re de Chabrier (M.Ravel M.63)",
+  "tie_errors": 29,
+  "classes": {
+   "ok_same_pitch": 64,
+   "tie_to_different_pitch": 14,
+   "tie_to_other_octave": 2,
+   "tie_to_rest_or_spacer": 1,
+   "tie_to_invisible_spacer_x": 1
+  },
+  "tie_errors_after_dropping_invalid_or_undefined": 11,
+  "tie_errors_after_also_dropping_grace": 11,
+  "reward_after_drop": 0.0,
+  "other_errors_after": 6,
+  "bar_after": 20
+ },
+ {
+  "id": "B36",
+  "title": "La Boh\u00e8me",
+  "tie_errors": 1,
+  "classes": {
+   "ok_same_pitch": 9,
+   "tie_to_different_pitch": 1
+  },
+  "tie_errors_after_dropping_invalid_or_undefined": 0,
+  "tie_errors_after_also_dropping_grace": 0,
+  "reward_after_drop": 0.8859999999999999,
+  "other_errors_after": 0,
+  "bar_after": 0
+ }
+]

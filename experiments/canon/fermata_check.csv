@@ -1,0 +1,554 @@
+cid,group,title,n_fermata,bar_before,err_before,bar_after,err_after,passes_after,total_after
+C0005,pdmx_canon,Chopin - Ballade no. 1 in G minor Op. 23,0,31.0,34.0,31,34,0,84.9
+C0023,pdmx_canon,Goldberg Variations,0,247.0,85.0,247,85,0,84.0
+C0024,pdmx_canon,Maurice Ravel - Pavane pour une infante défunte M. 19,6,13.0,19.0,7,19,0,92.8
+C0029,pdmx_canon,Frédéric Chopin: Étude in E minor Op.25 No.5 Wrong Note,7,14.0,6.0,10,6,0,91.0
+C0033,pdmx_canon,Schumann - Kinderszenen Op. 15,39,127.0,43.0,87,43,0,88.6
+C0038,pdmx_canon,Chopin Nocturne in E Minor Op. 72 No. 1,0,16.0,49.0,16,49,0,87.3
+C0042,pdmx_canon,Children's Corner - Doctor Gradus ad Parnassum,0,10.0,9.0,10,9,0,75.0
+C0048,pdmx_canon,Rhapsody in Blue - Piano Solo (1924),36,43.0,43.0,4,43,0,74.8
+C0053,pdmx_canon,Debussy - Images: Reflets dans leau,0,33.0,101.0,33,101,0,70.9
+C0056,pdmx_canon,Children's Album - P. I. Tchaikovsky Op. 39,30,142.0,0.0,108,0,0,89.5
+C0061,pdmx_canon,Pictures at an Exhibition,80,89.0,12.0,16,12,0,78.1
+C0067,pdmx_canon,Beethoven Piano Sonata No. 5 in C-Minor Op. 10 No. 1,17,35.0,23.0,21,23,0,89.5
+C0068,pdmx_canon,Frédéric Chopin: Nocturne in B-flat minor Op.9 No.1,2,16.0,17.0,14,17,0,86.0
+C0072,pdmx_canon,Haydn - Sonata in E minor Hob XVI/34 Movement I,15,28.0,3.0,0,3,0,96.1
+C0073,pdmx_canon,Grieg: Waltz Op. 12 No. 2,6,11.0,64.0,7,64,0,83.4
+C0076,pdmx_canon,Gaspard de la nuit (M.Ravel M.55),28,396.0,364.0,377,364,0,60.3
+C0079,pdmx_canon,Bach's chorale harmonisations 1-120 (Breitkopf numbering no ,1449,2610.0,0.0,651,0,0,67.5
+C0081,pdmx_canon,J.S. Bach - Toccata & Fugue in D minor BWV 565,32,23.0,1.0,1,1,0,83.5
+C0087,pdmx_canon,Hungarian Dance No. 1,4,46.0,5.0,40,2,0,90.3
+C0088,pdmx_canon,Fauré - Dolly Suite No. 1: Berceuse,23,12.0,0.0,0,0,1,96.7
+C0090,pdmx_canon,Mozart Fantasy in D minor K397,17,42.0,0.0,32,0,0,94.4
+C0109,pdmx_canon,Franz Liszt: Liebestraum No.3 in A-flat major,5,13.0,8.0,8,7,0,87.0
+C0114,pdmx_canon,J.S. Bach - English Suite no.3 in G minor BWV 808,0,1754.0,5.0,1754,5,0,86.7
+C0115,pdmx_canon,Keyboard Sonata in G Major Haydn Hob XVI G1,0,10.0,8.0,10,8,0,90.2
+C0117,pdmx_canon,Douze Études op. 25 (full),46,44.0,84.0,20,82,0,74.1
+C0120,pdmx_canon,Haydn: Sonata in G Major HOB.XVI:8,0,15.0,0.0,15,0,0,94.0
+C0122,pdmx_canon,Frédéric Chopin: Étude in A minor Op.25 No.11 Winter Wind,5,10.0,17.0,5,17,0,80.1
+C0124,pdmx_canon,Le tombeau de Couperin (piano) (M.Ravel M.68),11,35.0,237.0,24,237,0,80.4
+C0128,pdmx_canon,Beethoven - Sonata in F minor Op.2 No.1 Movement I,6,12.0,0.0,2,0,1,83.9
+C0130,pdmx_canon,Sonatine (M.Ravel M.40),14,91.0,48.0,76,48,0,78.4
+C0136,pdmx_canon,Schumann: Choral Op. 68 No. 4,18,16.0,1.0,0,1,0,58.4
+C0140,pdmx_canon,Chopin Etude Op 25 No 12 in C minor,2,11.0,0.0,9,0,1,58.9
+C0144,pdmx_canon,Piano Sonata No 1 Mozart KV 279,1,12.0,4.0,10,4,0,88.9
+C0151,pdmx_canon,Rachmaninoff - Prelude in B minor Op. 32 no. 10,4,18.0,19.0,15,19,0,86.3
+C0153,pdmx_canon,Handel - Passacaille Suite 7 - HWV 432,2,20.0,0.0,16,0,0,87.6
+C0159,pdmx_canon,W. A. Mozart Minuet in G Major K1e.,0,39.0,0.0,39,0,0,87.3
+C0181,pdmx_canon,Rachmaninoff - Prelude op. 23 no. 4 in D major (with fingeri,2,23.0,48.0,21,48,0,92.9
+C0193,pdmx_canon,Magnetic_Rag_(1914),4,160.0,79.0,158,79,0,82.8
+C0196,pdmx_canon,Le Tombeau de Couperin (1918),10,12.0,74.0,2,74,0,80.8
+C0198,pdmx_canon,Mazeppa from Transcendental Études,14,245.0,226.0,241,226,0,71.2
+C0200,pdmx_canon,La Campanella Liszt,5,20.0,7.0,15,7,0,76.7
+C0212,pdmx_canon,Frédéric Chopin: Nocturne in F-sharp major Op.15 No.2,4,14.0,15.0,10,15,0,82.0
+C0216,pdmx_canon,Debussy Prelude Book 2 No 12 Feux d'artifice,5,73.0,187.0,71,187,0,60.0
+C0218,pdmx_canon,Franz Liszt: Grandes études de Paganini No.3 in G-sharp mino,5,27.0,23.0,22,23,0,78.4
+C0219,pdmx_canon,Maurice Ravel: Jeux d'eau,5,48.0,12.0,44,12,0,71.0
+C0222,pdmx_canon,Alexander Scriabin: Piano Sonata No.5 Op.53,4,188.0,30.0,184,30,0,65.9
+C0224,pdmx_canon,Schubert - Sonata in A Op.120 D.664 Movement I,0,10.0,8.0,10,8,0,88.6
+C0238,pdmx_canon,Piano Sonata No.30 (L.v.Beethoven Op.109),5,294.0,47.0,294,47,0,85.4
+C0240,pdmx_canon,Mozart K.256 (Twelve Variations on Ah vous dirai-je Maman),4,14.0,7.0,6,7,0,86.9
+C0246,pdmx_canon,Beethoven - Variations in C major Op. 120 Diabelli,18,394.0,169.0,384,169,0,84.4
+C0251,pdmx_canon,Scherzo No.4 (F.Chopin Op.54),2,28.0,20.0,26,20,0,74.4
+C0255,pdmx_canon,Scriabin's Nocturne for the left hand,3,19.0,8.0,16,8,0,84.2
+C0257,pdmx_canon,W. A. Mozart Minuet in C Major K1f.,0,27.0,0.0,27,0,0,85.0
+C0259,pdmx_canon,Haydn - Sonata in C minor HOB XVI/20 Movement I,11,38.0,40.0,16,40,0,88.8
+C0262,pdmx_canon,Piano Sonata No.17 (L.v.Beethoven Op.31 No.2),22,59.0,110.0,33,110,0,85.3
+C0265,pdmx_canon,Rachmaninoff - Moment Musical No 3 in B Minor,0,20.0,0.0,20,0,0,87.2
+C0268,pdmx_canon,Piano Sonata No.31 (L.v.Beethoven Op.110),8,661.0,9.0,657,9,0,89.2
+C0271,pdmx_canon,Bach's chorale harmonisations 241-371 (Breitkopf numbering n,1621,2301.0,0.0,642,0,0,70.4
+C0272,pdmx_canon,Liszt Apparitions - No. 3 (Fantasy on a Waltz by Franz Schub,11,81.0,19.0,74,19,0,81.2
+C0273,pdmx_canon,Franz Liszt: Transcendental Étude No.10 in F minor Appassion,12,35.0,135.0,25,135,0,81.8
+C0276,pdmx_canon,Nocturne in E flat Op. 9 No. 2 with variants transmitted by ,4,27.0,6.0,23,6,0,92.6
+C0279,pdmx_canon,The palms - Jean-Baptiste Faure,0,12.0,0.0,12,0,0,81.5
+C0281,pdmx_canon,Polonaise-Fantasie (F.Chopin Op.61),30,119.0,43.0,107,43,0,80.1
+C0284,pdmx_canon,Debussy Claude - Pour les arpeÌges composeÌs- Etude 11,4,29.0,60.0,26,60,0,80.3
+C0286,pdmx_canon,Schubert - Allegretto in C Minor (D.915),22,39.0,3.0,2,3,0,90.1
+C0287,pdmx_canon,Beethoven: Rondo alla ingharese quasi un capriccio (Rage Ove,0,28.0,0.0,28,0,0,97.2
+C0291,pdmx_canon,Frederic chopin piano sonata 2 op35 3 funeral march,2,125.0,24.0,125,24,0,82.1
+C0297,pdmx_canon,Franz Liszt: Grandes études de Paganini No.6 in A minor,6,29.0,39.0,17,39,0,87.1
+C0301,pdmx_canon,Étude after Paganini's 5th Caprice - R. Schumann Op. 3 No. 1,26,36.0,26.0,36,26,0,88.9
+C0302,pdmx_canon,Bach's chorale harmonisations 121-240 (Breitkopf numbering n,1580,1967.0,0.0,348,0,0,73.6
+C0304,pdmx_canon,Debussy - Suite Bergamasque - III. Clair de Lune,0,30.0,6.0,30,6,0,91.7
+C0311,pdmx_canon,Les collines d'Anacapri,2,15.0,46.0,13,46,0,87.3
+C0313,pdmx_canon,Piano Sonata No.8 Op.13 Pathétiqueï¼L.v.Beethovenï¼,22,26.0,12.0,6,12,0,89.3
+C0322,pdmx_canon,Franz Liszt: Transcendental Étude No.11 in D-flat major Harm,18,49.0,36.0,40,36,0,84.5
+C0324,pdmx_canon,Piano Sonata No.21 (L.v.Beethoven Op.53),28,125.0,83.0,95,83,0,88.5
+C0327,pdmx_canon,Rondo a Capriccio Rage over a lost Penny Beethoven op 129,0,14.0,15.0,14,15,0,96.0
+C0330,pdmx_canon,Elegie (S.Rachmaninoff. Op.3.No.1),4,10.0,8.0,6,8,0,90.0
+C0344,pdmx_canon,Debussy Prelude Book 2 No 7 La terrasse des audiences du cla,0,16.0,13.0,16,13,0,73.5
+C0347,pdmx_canon,Schubert Impromptu Op. 142 No. 2,10,16.0,4.0,2,0,1,86.3
+C0357,pdmx_canon,Piano Sonata No.6 Op.10 No.2 (L.v.Beethoven),11,40.0,8.0,23,8,0,89.9
+C0361,pdmx_canon,Prelude to Act 3 - Scott Joplin - 1913,12,10.0,0.0,0,0,1,80.4
+C0363,pdmx_canon,Fur Elise Variations Book One,19,37.0,3.0,20,1,0,79.9
+C0364,pdmx_canon,Rachmaninoff - Études-Tableaux Op. 39 no. 2,2,10.0,25.0,8,25,0,87.6
+C0382,pdmx_canon,F. Chopin - Mazurka in C Minor Op. 30: No. 4,8,11.0,0.0,3,0,1,86.7
+C0391,pdmx_canon,Rachmaninoff: Ètude-Tableaux No. 1 in C Minor,2,15.0,17.0,13,17,0,82.3
+C0393,pdmx_canon,Bach js capriccio bwv 992,6,24.0,0.0,14,0,0,95.4
+C0397,pdmx_canon,Bach Johann Sebastian Partita 3 in A minor BWV 827,0,1050.0,24.0,1050,24,0,73.7
+C0400,pdmx_canon,Frolic Of The Bears - revised edition - Scott Joplin - 1915,21,21.0,0.0,0,0,1,86.2
+C0404,pdmx_canon,BWV 998 Prelude Fugue and Allegro in E-flat major,10,10.0,0.0,0,0,1,76.1
+C0405,pdmx_canon,Bach Johann Sebastian Partita 5 In G Major BWV 829,2,516.0,10.0,516,10,0,82.2
+C0409,pdmx_canon,Franz Liszt: Hungarian Rhapsody No.10 in E major,35,102.0,108.0,92,108,0,79.3
+C0410,pdmx_canon,Franz Liszt: Grande Paraphrase de la Marche de Donizetti S.4,12,47.0,39.0,39,39,0,75.2
+C0412,pdmx_canon,Ballade No.4 (F.Chopin Op.52),10,21.0,28.0,15,28,0,90.3
+C0416,pdmx_canon,Hungarian Rhapsody No.2,17,104.0,41.0,90,41,0,85.7
+C0425,pdmx_canon,Debussy Prelude Book 2 No 4 Les fees sont d'exquises danseus,0,12.0,50.0,12,50,0,71.7
+C0430,pdmx_canon,Wolfgang Amadeus Mozart - Morgen kommt der Weihnachtsmann,0,24.0,1.0,24,1,0,94.8
+C0433,pdmx_canon,Bartok: Game (VIII from For Children Sz. 42),12,12.0,0.0,0,0,1,91.0
+C0434,pdmx_canon,Wer nur den lieben Gott lässt walten (Choral) BWV 691,9,11.0,2.0,2,2,0,82.0
+C0436,pdmx_canon,Verklärte Nacht,4,51.0,61.0,47,61,0,72.7
+C0441,pdmx_canon,Piano Sonata No.16 Op.31 No.1 (L.v.Beethoven),14,76.0,33.0,66,33,0,91.5
+C0448,pdmx_canon,Nocturne No.6.(G.Fauré Op.63),8,110.0,24.0,102,24,0,77.7
+C0449,pdmx_canon,Mozart - Piano Sonata No. 18 in D: Allegretto,26,10.0,4.0,0,1,0,93.7
+C0451,pdmx_canon,6 - Triana,22,25.0,20.0,7,17,0,85.4
+C0454,pdmx_canon,Invocation from Liszt's Harmonies poétiques et religieuses I,14,17.0,0.0,3,0,1,77.0
+C0458,pdmx_canon,Lavapies from Iberia by Albéniz,12,95.0,218.0,88,218,0,80.8
+C0469,pdmx_canon,Nocturne (C.Debussy),4,46.0,78.0,46,78,0,83.5
+C0472,pdmx_canon,À la manière de Chabrier (M.Ravel M.63),10,20.0,35.0,10,35,0,86.5
+C0473,pdmx_canon,Chorale harmonisations from various vocal works by Bach,585,739.0,0.0,110,0,0,78.3
+C0475,pdmx_canon,Bach - 6 Partitas - VI - BWV830,0,260.0,125.0,260,125,0,82.6
+C0476,pdmx_canon,III. Clair de Lune,0,30.0,6.0,30,6,0,91.7
+C0483,pdmx_canon,Bach - Prelude and Fugue in A Minor. BWV 543. {Professional ,3,12.0,0.0,9,0,1,83.6
+C0503,pdmx_canon,Minuet in D Major K94/73h by Mozart,0,11.0,0.0,11,0,0,84.0
+C0505,pdmx_canon,Bagatelle Op.119 N.3,0,40.0,1.0,40,1,0,94.0
+C0512,pdmx_canon,Bach - Fantasia in G Major. BWV 572. {Professional productio,3,15.0,0.0,12,0,0,83.0
+C0525,pdmx_canon,Chopin - Piano Sonata 2 in Bb Minor,6,126.0,78.0,120,78,0,79.9
+C0530,pdmx_canon,Piano Sonata No.24 (L.v.Beethoven Op.78),7,32.0,6.0,28,6,0,91.0
+C0542,pdmx_canon,Liszt - Grandes études No. 4 (Mazeppa),6,48.0,69.0,44,69,0,78.7
+C0543,pdmx_canon,Scarlatti Sonate en mi majeur K531-L430,8,16.0,0.0,0,0,1,76.2
+C0553,pdmx_canon,Concert Étude after Paganini's 4th Caprice - R. Schumann Op.,11,16.0,29.0,8,29,0,71.4
+C0570,pdmx_canon,Rachmaninoff - Moment Musical No 1 in Bb Minor,2,30.0,30.0,28,30,0,88.3
+C0573,pdmx_canon,BWV 1008 Cello Suite No.2 in D minor (A = 415 Hz)ãããHarp sou,9,13.0,0.0,4,0,1,81.3
+C0580,pdmx_canon,O sacred head - Johann Sebastian Bach on a tune by Hans Leo ,10,58.0,0.0,48,0,0,74.9
+C0581,pdmx_canon,Piano Sonata No.23 (L.v.Beethoven Op.57),11,2235.0,94.0,2224,94,0,86.7
+C0587,pdmx_canon,Waltz No.2,0,28.0,0.0,28,0,0,83.6
+C0591,pdmx_canon,Beethoven Piano Sonata No. 29 1st Movement,24,39.0,0.0,10,0,0,85.9
+C0592,pdmx_canon,Debussy - Préludes - Book I - IV,1,15.0,0.0,14,0,0,73.5
+C0593,pdmx_canon,Fête-dieu aÌ Séville from Iberia by Albéniz,11,42.0,61.0,35,61,0,74.7
+C0610,pdmx_canon,Étude after Paganini's 19th Caprice - R. Schumann Op. 3 No. ,42,17.0,3.0,0,3,0,87.2
+C0611,pdmx_canon,D. Scarlatti - Sonata Eb Major K. 306,7,10.0,0.0,0,0,1,75.1
+C0612,pdmx_canon,D. Scarlatti Sonata in D major (K160),10,20.0,1.0,0,1,0,90.2
+C0614,pdmx_canon,Mazurkas Op.7 - Frédéric Chopin,4,20.0,0.0,12,0,0,87.4
+C0617,pdmx_canon,BWV 1010 Cello Suite No.4 in E-flat major (A = 415 Hz)ããããHa,11,11.0,0.0,0,0,1,74.6
+C0619,pdmx_canon,Donne mie la fate a tanti (piano-vocal score),11,10.0,1.0,0,1,0,94.4
+C0642,pdmx_canon,Polonaise (F.Chopin Op.26.No.1),4,16.0,17.0,10,17,0,89.3
+C0650,pdmx_canon,Transcendental Etudes after Paganini S. 140 No. 6,2,29.0,56.0,25,56,0,86.0
+C0661,pdmx_canon,Liszt Venezia e Napoli I (Revised Version),5,19.0,1.0,15,0,0,89.8
+C0663,pdmx_canon,BWV 814: French Suite III (A = 415 Hz),14,14.0,0.0,0,0,1,78.8
+C0664,pdmx_canon,Sonata in G minor K.4,0,12.0,1.0,12,1,0,80.1
+C0668,pdmx_canon,Aus Meines Herzens Grunde Bach (Analysis),12,20.0,0.0,2,0,1,76.5
+C0669,pdmx_canon,Mirages,13,741.0,406.0,731,406,0,62.0
+C0672,pdmx_canon,Renaissance Suite - II Rigaudon {Rameau} - Leopold Godowsky,1,13.0,11.0,12,11,0,93.6
+C0674,pdmx_canon,BWV 883: The Well-tempered Clavier Book II - XIV (A = 415 Hz,10,10.0,0.0,0,0,1,80.9
+C0681,pdmx_canon,Memories of childhood,8,14.0,0.0,6,0,1,92.7
+C0683,pdmx_canon,Break forth o beauteous heavenly light - Johann Schop,0,16.0,0.0,16,0,0,90.1
+C0709,pdmx_canon,Erschienen ist der herrliche Tag - BWV 629,10,10.0,0.0,0,0,1,77.8
+C0710,pdmx_canon,Chopin Nocturne Op.48 No.2,0,784.0,25.0,784,25,0,67.5
+C0748,pdmx_canon,Liszt Hungarian Fantasy (for 2 pianos),45,73.0,40.0,42,40,0,79.5
+C0770,pdmx_canon,Domenico Scarlatti - Sonata L. 452 K. 116 P. 111 C minor All,0,146.0,26.0,146,26,0,88.7
+C0781,pdmx_canon,Beethoven Sonata 32 (Opus 111) Mvt 2,0,70.0,0.0,70,0,0,78.1
+C0793,pdmx_canon,Intermezzo by Dvorak,9,15.0,3.0,0,3,0,86.3
+C0804,pdmx_canon,BWV 1009 Cello Suite No.3 in C major (A = 415 Hz)ããããHarp so,10,10.0,0.0,0,0,1,77.7
+C0837,pdmx_canon,Gigue in G Major - K. 574,0,64.0,2.0,64,2,0,90.6
+C0848,pdmx_canon,Prelude and Fugue 20 - OpenWTC,6,13.0,0.0,7,0,1,84.4
+C0864,pdmx_canon,Concert Étude after Paganini's 10th Caprice - R. Schumann Op,2,13.0,8.0,11,8,0,94.2
+C0878,pdmx_canon,Impromptu in Gâ Major,4,28.0,0.0,24,0,0,86.5
+C0879,pdmx_canon,J.S. Bach Durch Adam's Fall ist ganz verderbt (Fuga),3,17.0,6.0,14,6,0,77.9
+C0890,pdmx_canon,Freuet euch ihr Christen,17,17.0,0.0,0,0,1,68.9
+C0915,pdmx_canon,Bach corais 325 e 334,16,16.0,0.0,0,0,1,70.8
+C0919,pdmx_canon,Carl Philipp Emanuel Bach Arioso con six Variazoni,15,38.0,0.0,2,0,1,79.2
+C0925,pdmx_canon,D. Scarlatti - Sonata D Major K. 335,6,12.0,0.0,0,0,1,74.4
+C0929,pdmx_canon,Nocturne 4 in F major,0,19.0,12.0,19,12,0,92.3
+C0936,pdmx_canon,10. La Porte des Bohatyrs de Kiew,16,30.0,48.0,18,48,0,81.1
+C0958,pdmx_canon,Liszt Apparitions - No. 2,23,28.0,5.0,8,5,0,91.4
+C0976,pdmx_canon,Hungarian Rhapsody no. 15 Except its Written by Franz Liszt,5,107.0,29.0,104,29,0,78.9
+C0992,pdmx_canon,Aus meines Herzen Grunde,12,20.0,0.0,2,0,1,75.4
+C0994,pdmx_canon,Scarlatti Domenico - Keyboard Sonata in G minor K. 111,9,14.0,0.0,0,0,1,82.1
+C1006,pdmx_canon,Nuages Gris (extra Pedal),0,15.0,0.0,15,0,0,69.1
+C1007,pdmx_canon,Asturias,20,30.0,0.0,10,0,0,85.4
+C1028,pdmx_canon,BWV 988 Goldberg Variations: Variation XXIX,2,16.0,28.0,14,28,0,60.0
+C1030,pdmx_canon,Wolff Hommage A Chopin,16,16.0,0.0,8,0,1,91.8
+C1045,pdmx_canon,Liszt Apparitions - No. 1,9,10.0,2.0,1,2,0,87.1
+C1075,pdmx_canon,Psalm 1: That man hath perfect blessedness : Handel,0,16.0,4.0,16,4,0,78.9
+C1083,pdmx_canon,Sonata in D minor K.1,2,12.0,0.0,8,0,1,61.7
+C1109,pdmx_canon,Printemps Paraphrase (C.Debussy - L.Roques),4,57.0,31.0,53,31,0,87.2
+C1111,pdmx_canon,Aus Meines Herzens Grunde,12,20.0,0.0,2,0,1,76.5
+C1123,pdmx_canon,Salve Regina D. 811 (Op. 149) one of several settings - Fran,12,12.0,0.0,0,0,1,77.9
+C1136,pdmx_canon,Jesu meiner Seelen Wonne - Johann Sebastian Bach,24,28.0,0.0,0,0,1,75.8
+C1144,pdmx_canon,SOLOMON (Handel) - George Frideric Handel,0,15.0,0.0,15,0,0,63.5
+C1150,pdmx_canon,Franz Joseph Haydn - Scherzo,0,10.0,0.0,10,0,0,83.9
+C1153,pdmx_canon,Schwingt freudig euch empor BWV 36,0,64.0,0.0,64,0,0,73.0
+C1159,pdmx_canon,Keyboard Sonata in E minor Hob.XVI:34 - Joseph Haydn,17,31.0,13.0,5,13,0,94.3
+C1173,pdmx_canon,Ach Gott vom Himmel sieh darein,10,12.0,0.0,2,0,1,68.3
+C1191,pdmx_canon,Ich dank dir lieber Herre,12,16.0,0.0,2,0,1,77.6
+C1196,pdmx_canon,Aus Meines Herzens Grunde no lines,12,20.0,0.0,2,0,1,76.5
+C1204,pdmx_canon,CHRISTMAS (Handel) - George Frideric Handel,0,16.0,0.0,16,0,0,78.9
+C1209,pdmx_canon,Die Ehre Gottes aus der Natur,16,12.0,0.0,0,0,1,64.9
+C1211,pdmx_canon,Moonlight sonata,8,10.0,37.0,0,37,0,85.1
+C1220,pdmx_canon,Dir dir Jehova will ich singen,15,31.0,0.0,2,0,1,86.1
+C1251,pdmx_canon,Entertainer,0,212.0,8.0,212,8,0,95.9
+C1256,pdmx_canon,Salmo 22B (Parte 1),0,30.0,0.0,30,0,0,73.4
+C1261,pdmx_canon,Qui presso a te Signor,0,101.0,40.0,101,40,0,75.2
+C1266,pdmx_canon,Franz Joseph Haydn - Arietta,0,34.0,0.0,34,0,0,80.6
+C1276,pdmx_canon,score 8464510 afb12fffc80b2d6b4298b30b3ce19d2a0c4fcae2,12,2195.0,172.0,2183,172,0,87.4
+C1279,pdmx_canon,Jesus in my walk and living - Johann S. Bach,0,12.0,0.0,12,0,0,84.7
+C1291,pdmx_canon,Lenten Gospel Acclamations - Andris Solims,6,36.0,4.0,32,4,0,67.3
+C1297,pdmx_canon,I love the lord he heard my voice - George F. Handel,0,15.0,0.0,15,0,0,63.5
+C1303,pdmx_canon,Johann Sebastian Bach - Gib dich zufrieden,8,11.0,1.0,3,1,0,77.9
+C1307,pdmx_canon,Brightest and best of the sons of the morning - Johann S. Ba,0,24.0,0.0,24,0,0,79.3
+C1317,pdmx_canon,All of you who walked in darkness - Felix Mendelssohn,0,16.0,0.0,16,0,0,83.1
+C1323,pdmx_canon,Nowell! nowell! - Johann S. Bach,18,14.0,0.0,4,0,1,83.1
+C1336,pdmx_canon,Johann Sebastian Bach - Untitled piece,0,10.0,0.0,10,0,0,78.6
+C1339,pdmx_canon,Great god and saviour - George F. Handel,0,12.0,0.0,12,0,0,82.9
+C1381,pdmx_canon,Christ is coming (ostrom) - Felix Mendelssohn,0,24.0,0.0,24,0,0,83.3
+C1411,pdmx_canon,One sits upon the throne - Johann H. Schein,0,16.0,0.0,16,0,0,73.9
+C1416,pdmx_canon,Salmo 22B Parte 2,0,30.0,0.0,30,0,0,73.4
+C1433,pdmx_canon,Salmo 22B (Parte 3),0,30.0,0.0,30,0,0,73.4
+C1434,pdmx_canon,Salmo 22B (Parte 4),0,30.0,0.0,30,0,0,73.4
+C1811,m21_bach_chorales,Chorale bwv10.7,16,16.0,0.0,0,0,1,63.7
+C1812,m21_bach_chorales,Chorale bwv101.7,24,20.0,0.0,16,0,0,64.6
+C1813,m21_bach_chorales,Chorale bwv102.7,24,20.0,0.0,16,0,0,62.9
+C1814,m21_bach_chorales,Chorale bwv103.6,24,28.0,0.0,10,0,0,71.9
+C1815,m21_bach_chorales,Chorale bwv104.6,20,24.0,0.0,2,0,1,74.2
+C1816,m21_bach_chorales,Chorale bwv108.6,24,24.0,0.0,16,0,0,73.1
+C1817,m21_bach_chorales,Chorale bwv11.6,23,34.0,0.0,8,0,1,84.6
+C1818,m21_bach_chorales,Chorale bwv110.7,28,24.0,0.0,0,0,1,63.2
+C1820,m21_bach_chorales,Chorale bwv112.5-sc,33,40.0,0.0,2,0,1,76.3
+C1822,m21_bach_chorales,Chorale bwv113.8,20,28.0,0.0,10,0,0,72.6
+C1823,m21_bach_chorales,Chorale bwv114.7,20,24.0,0.0,2,0,1,77.7
+C1824,m21_bach_chorales,Chorale bwv115.6,24,32.0,0.0,0,0,1,72.0
+C1826,m21_bach_chorales,Chorale bwv117.4,20,24.0,0.0,2,0,1,73.6
+C1828,m21_bach_chorales,Chorale bwv12.7,13,13.0,0.0,0,0,1,76.2
+C1831,m21_bach_chorales,Chorale bwv121.6,16,20.0,0.0,8,0,1,75.7
+C1832,m21_bach_chorales,Chorale bwv122.6,16,16.0,0.0,0,0,1,65.2
+C1833,m21_bach_chorales,Chorale bwv123.6,24,36.0,0.0,0,0,1,70.4
+C1836,m21_bach_chorales,Chorale bwv126.6,48,52.0,0.0,16,0,0,84.5
+C1837,m21_bach_chorales,Chorale bwv127.5,24,20.0,0.0,16,0,0,68.7
+C1838,m21_bach_chorales,Chorale bwv128.5,16,16.0,0.0,0,0,1,73.7
+C1839,m21_bach_chorales,Chorale bwv13.6,23,19.0,0.0,16,0,0,65.8
+C1841,m21_bach_chorales,Chorale bwv133.6,24,36.0,0.0,10,0,0,66.8
+C1843,m21_bach_chorales,Chorale bwv136.6,25,20.0,0.0,0,0,1,72.7
+C1846,m21_bach_chorales,Chorale bwv14.5,20,24.0,0.0,2,0,1,75.2
+C1847,m21_bach_chorales,Chorale bwv140.7,36,44.0,0.0,4,0,1,80.7
+C1848,m21_bach_chorales,Chorale bwv144.3,24,28.0,0.0,2,0,1,72.5
+C1849,m21_bach_chorales,Chorale bwv144.6,24,42.0,0.0,10,0,0,75.6
+C1851,m21_bach_chorales,Chorale bwv145.5,17,22.0,0.0,8,0,1,59.1
+C1853,m21_bach_chorales,Chorale bwv148.6,24,24.0,0.0,16,0,0,68.5
+C1854,m21_bach_chorales,Chorale bwv149.7,14,14.0,0.0,0,0,1,81.4
+C1855,m21_bach_chorales,Chorale bwv151.5,20,24.0,0.0,8,0,1,62.6
+C1856,m21_bach_chorales,Chorale bwv153.1,20,24.0,0.0,2,0,1,65.2
+C1857,m21_bach_chorales,Chorale bwv153.5,24,41.0,0.0,10,0,0,64.3
+C1859,m21_bach_chorales,Chorale bwv154.3,24,32.0,0.0,0,0,1,61.2
+C1860,m21_bach_chorales,Chorale bwv154.8,24,24.0,0.0,8,0,1,79.7
+C1861,m21_bach_chorales,Chorale bwv155.5,20,24.0,0.0,2,0,1,72.8
+C1862,m21_bach_chorales,Chorale bwv156.6,20,36.0,0.0,2,0,1,67.2
+C1865,m21_bach_chorales,Chorale bwv159.5,32,32.0,0.0,0,0,1,83.0
+C1866,m21_bach_chorales,Chorale bwv16.6,20,36.0,0.0,10,0,0,63.9
+C1869,m21_bach_chorales,Chorale bwv164.6,20,36.0,0.0,2,0,1,72.2
+C1871,m21_bach_chorales,Chorale bwv166.6,16,28.0,0.0,2,0,1,65.2
+C1872,m21_bach_chorales,Chorale bwv168.6,20,28.0,0.0,10,0,0,65.4
+C1873,m21_bach_chorales,Chorale bwv169.7,22,22.0,0.0,0,0,1,78.9
+C1874,m21_bach_chorales,Chorale bwv17.7,40,68.0,0.0,26,0,0,71.8
+C1875,m21_bach_chorales,Chorale bwv171.6,18,39.0,19.0,24,19,0,83.0
+C1876,m21_bach_chorales,Chorale bwv172.6,27,36.0,0.0,2,0,1,85.3
+C1877,m21_bach_chorales,Chorale bwv174.5,40,48.0,0.0,2,0,1,73.2
+C1878,m21_bach_chorales,Chorale bwv175.7,22,22.0,0.0,0,0,1,76.7
+C1879,m21_bach_chorales,Chorale bwv176.6,36,32.0,0.0,32,0,0,73.7
+C1880,m21_bach_chorales,Chorale bwv177.4,20,24.0,0.0,2,0,1,71.6
+C1881,m21_bach_chorales,Chorale bwv177.5,28,32.0,0.0,2,0,1,85.0
+C1883,m21_bach_chorales,Chorale bwv179.6,16,28.0,0.0,2,0,1,79.3
+C1884,m21_bach_chorales,Chorale bwv18.5-lz,12,20.0,0.0,10,0,0,69.0
+C1885,m21_bach_chorales,Chorale bwv18.5-w,24,32.0,0.0,10,0,0,68.4
+C1886,m21_bach_chorales,Chorale bwv180.7,24,32.0,0.0,0,0,1,80.7
+C1887,m21_bach_chorales,Chorale bwv183.5,24,40.0,0.0,10,0,0,69.5
+C1888,m21_bach_chorales,Chorale bwv184.5,28,44.0,0.0,10,0,0,73.5
+C1889,m21_bach_chorales,Chorale bwv185.6,15,15.0,0.0,0,0,1,83.3
+C1890,m21_bach_chorales,Chorale bwv187.7,28,28.0,0.0,0,0,1,78.9
+C1892,m21_bach_chorales,Chorale bwv19.7,46,60.0,0.0,0,0,1,74.8
+C1893,m21_bach_chorales,Chorale bwv190.7-inst,39,39.0,0.0,0,0,1,65.5
+C1894,m21_bach_chorales,Chorale bwv190.7,13,13.0,0.0,0,0,1,73.3
+C1895,m21_bach_chorales,Chorale bwv194.12,16,20.0,0.0,8,0,1,67.3
+C1896,m21_bach_chorales,Chorale bwv194.6,24,32.0,0.0,0,0,1,76.4
+C1897,m21_bach_chorales,Chorale bwv195.6,10,10.0,0.0,0,0,1,78.0
+C1898,m21_bach_chorales,Chorale bwv197.10,16,28.0,0.0,2,0,1,66.5
+C1899,m21_bach_chorales,Chorale bwv197.5,24,20.0,0.0,0,0,1,81.0
+C1901,m21_bach_chorales,Chorale bwv2.6,20,28.0,0.0,2,0,1,61.9
+C1902,m21_bach_chorales,Chorale bwv20.11,20,28.0,0.0,2,0,1,76.6
+C1904,m21_bach_chorales,Chorale bwv226.2,44,40.0,0.0,24,0,0,75.9
+C1906,m21_bach_chorales,Chorale bwv227.11,12,18.0,0.0,0,0,1,73.3
+C1908,m21_bach_chorales,Chorale bwv227.7,11,17.0,0.0,0,0,1,86.5
+C1910,m21_bach_chorales,Chorale bwv24.6,32,28.0,0.0,0,0,1,80.0
+C1912,m21_bach_chorales,Chorale bwv244.15,24,44.0,0.0,10,0,0,70.6
+C1914,m21_bach_chorales,Chorale bwv244.25,24,28.0,0.0,10,0,0,65.5
+C1916,m21_bach_chorales,Chorale bwv244.3,16,16.0,0.0,0,0,1,69.5
+C1917,m21_bach_chorales,Chorale bwv244.32,24,20.0,0.0,0,0,1,66.4
+C1918,m21_bach_chorales,Chorale bwv244.37,23,20.0,0.0,16,0,0,70.0
+C1920,m21_bach_chorales,Chorale bwv244.44,24,44.0,0.0,10,0,0,68.8
+C1921,m21_bach_chorales,Chorale bwv244.46,16,16.0,0.0,0,0,1,62.6
+C1922,m21_bach_chorales,Chorale bwv244.54,24,44.0,0.0,10,0,0,68.5
+C1923,m21_bach_chorales,Chorale bwv244.62,24,41.0,0.0,10,0,0,72.0
+C1924,m21_bach_chorales,Chorale bwv245.11,24,20.0,0.0,16,0,0,69.5
+C1925,m21_bach_chorales,Chorale bwv245.14,32,32.0,0.0,0,0,1,71.1
+C1926,m21_bach_chorales,Chorale bwv245.15,32,32.0,0.0,0,0,1,65.6
+C1927,m21_bach_chorales,Chorale bwv245.17,16,16.0,0.0,16,0,0,70.1
+C1928,m21_bach_chorales,Chorale bwv245.22,16,20.0,0.0,2,0,1,71.2
+C1929,m21_bach_chorales,Chorale bwv245.26,24,44.0,0.0,10,0,0,66.6
+C1930,m21_bach_chorales,Chorale bwv245.28,32,32.0,0.0,0,0,1,64.3
+C1931,m21_bach_chorales,Chorale bwv245.3,16,16.0,0.0,0,0,1,67.8
+C1932,m21_bach_chorales,Chorale bwv245.37,32,32.0,0.0,0,0,1,64.8
+C1933,m21_bach_chorales,Chorale bwv245.40,13,13.0,0.0,0,0,1,75.5
+C1935,m21_bach_chorales,Chorale bwv248.12-2,24,28.0,0.0,10,0,0,78.7
+C1940,m21_bach_chorales,Chorale bwv248.33-3,32,32.0,0.0,8,0,1,71.1
+C1941,m21_bach_chorales,Chorale bwv248.35-3,28,24.0,0.0,16,0,0,71.0
+C1945,m21_bach_chorales,Chorale bwv248.46-5,24,24.0,0.0,0,0,1,74.3
+C1946,m21_bach_chorales,Chorale bwv248.5,24,41.0,0.0,10,0,0,79.6
+C1947,m21_bach_chorales,Chorale bwv248.53-5,16,24.0,0.0,0,0,1,84.8
+C1948,m21_bach_chorales,Chorale bwv248.59-6,25,30.0,0.0,2,0,1,85.5
+C1951,m21_bach_chorales,Chorale bwv248.9-1,16,16.0,0.0,0,0,1,94.3
+C1953,m21_bach_chorales,Chorale bwv25.6,24,32.0,0.0,0,0,1,73.7
+C1954,m21_bach_chorales,Chorale bwv250,34,40.0,0.0,2,0,1,78.2
+C1955,m21_bach_chorales,Chorale bwv251,30,36.0,0.0,2,0,1,76.4
+C1956,m21_bach_chorales,Chorale bwv252,36,54.0,0.0,14,0,0,81.5
+C1957,m21_bach_chorales,Chorale bwv253,16,20.0,0.0,8,0,1,63.1
+C1958,m21_bach_chorales,Chorale bwv254,16,14.0,0.0,16,0,0,76.0
+C1959,m21_bach_chorales,Chorale bwv255,24,20.0,0.0,8,0,1,65.2
+C1960,m21_bach_chorales,Chorale bwv256,20,24.0,0.0,2,0,1,72.7
+C1961,m21_bach_chorales,Chorale bwv257,19,25.0,0.0,10,0,0,69.0
+C1962,m21_bach_chorales,Chorale bwv258,20,24.0,0.0,10,0,0,67.1
+C1963,m21_bach_chorales,Chorale bwv259,24,24.0,0.0,0,0,1,79.9
+C1964,m21_bach_chorales,Chorale bwv26.6,24,20.0,0.0,0,0,1,69.1
+C1965,m21_bach_chorales,Chorale bwv260,20,24.0,0.0,2,0,1,78.5
+C1966,m21_bach_chorales,Chorale bwv261,25,45.0,0.0,14,0,0,73.7
+C1967,m21_bach_chorales,Chorale bwv262,24,32.0,0.0,0,0,1,75.4
+C1968,m21_bach_chorales,Chorale bwv263,24,24.0,0.0,0,0,1,82.0
+C1969,m21_bach_chorales,Chorale bwv264,20,24.0,0.0,16,0,0,73.0
+C1970,m21_bach_chorales,Chorale bwv265,16,12.0,0.0,8,0,1,72.2
+C1971,m21_bach_chorales,Chorale bwv266,24,28.0,0.0,8,0,1,72.9
+C1972,m21_bach_chorales,Chorale bwv267,32,36.0,0.0,10,0,0,80.8
+C1973,m21_bach_chorales,Chorale bwv268,24,20.0,0.0,8,0,1,81.4
+C1974,m21_bach_chorales,Chorale bwv269,24,44.0,0.0,10,0,0,76.1
+C1975,m21_bach_chorales,Chorale bwv27.6,30,30.0,0.0,0,0,1,69.5
+C1976,m21_bach_chorales,Chorale bwv270,13,25.0,0.0,10,0,0,70.6
+C1977,m21_bach_chorales,Chorale bwv271,24,41.0,0.0,10,0,0,72.4
+C1978,m21_bach_chorales,Chorale bwv272,24,44.0,0.0,10,0,0,74.2
+C1979,m21_bach_chorales,Chorale bwv273,20,16.0,0.0,8,0,1,76.4
+C1980,m21_bach_chorales,Chorale bwv274,16,12.0,0.0,8,0,1,79.1
+C1981,m21_bach_chorales,Chorale bwv275,28,28.0,0.0,16,0,0,77.7
+C1982,m21_bach_chorales,Chorale bwv276,62,66.0,0.0,12,0,0,91.3
+C1984,m21_bach_chorales,Chorale bwv278,24,32.0,0.0,10,0,0,80.7
+C1986,m21_bach_chorales,Chorale bwv28.6,24,40.0,0.0,10,0,0,68.8
+C1987,m21_bach_chorales,Chorale bwv280,28,32.0,0.0,2,0,1,73.1
+C1989,m21_bach_chorales,Chorale bwv282,20,20.0,0.0,0,0,1,72.4
+C1990,m21_bach_chorales,Chorale bwv283,19,19.0,0.0,0,0,1,82.6
+C1991,m21_bach_chorales,Chorale bwv284,32,32.0,0.0,16,0,0,79.7
+C1992,m21_bach_chorales,Chorale bwv285,24,20.0,0.0,16,0,0,76.3
+C1994,m21_bach_chorales,Chorale bwv287,24,44.0,0.0,10,0,0,70.0
+C1995,m21_bach_chorales,Chorale bwv288,24,20.0,0.0,0,0,1,72.2
+C1996,m21_bach_chorales,Chorale bwv289,24,20.0,0.0,0,0,1,68.0
+C1997,m21_bach_chorales,Chorale bwv29.8,56,124.0,0.0,50,0,0,80.5
+C1998,m21_bach_chorales,Chorale bwv290,16,12.0,0.0,8,0,1,74.0
+C1999,m21_bach_chorales,Chorale bwv291,19,19.0,0.0,0,0,1,75.8
+C2000,m21_bach_chorales,Chorale bwv292,28,28.0,0.0,0,0,1,86.4
+C2001,m21_bach_chorales,Chorale bwv293,16,12.0,0.0,8,0,1,71.4
+C2002,m21_bach_chorales,Chorale bwv294,31,36.0,0.0,2,0,1,85.4
+C2003,m21_bach_chorales,Chorale bwv295,16,20.0,0.0,8,0,1,76.9
+C2004,m21_bach_chorales,Chorale bwv296,28,36.0,0.0,16,0,0,75.5
+C2005,m21_bach_chorales,Chorale bwv297,32,32.0,0.0,16,0,0,78.5
+C2006,m21_bach_chorales,Chorale bwv298,24,24.0,0.0,0,0,1,70.3
+C2007,m21_bach_chorales,Chorale bwv299,16,36.0,0.0,10,0,0,84.5
+C2008,m21_bach_chorales,Chorale bwv3.6,16,12.0,0.0,8,0,1,60.8
+C2009,m21_bach_chorales,Chorale bwv30.6,24,32.0,0.0,0,0,1,79.6
+C2010,m21_bach_chorales,Chorale bwv300,32,40.0,0.0,16,0,0,73.2
+C2011,m21_bach_chorales,Chorale bwv301,24,32.0,0.0,0,0,1,84.2
+C2012,m21_bach_chorales,Chorale bwv302,28,32.0,0.0,10,0,0,81.3
+C2013,m21_bach_chorales,Chorale bwv303,28,36.0,0.0,10,0,0,74.6
+C2014,m21_bach_chorales,Chorale bwv304,24,28.0,0.0,4,0,1,74.7
+C2015,m21_bach_chorales,Chorale bwv305,24,29.0,0.0,10,0,0,85.6
+C2016,m21_bach_chorales,Chorale bwv306,16,20.0,0.0,8,0,1,82.0
+C2017,m21_bach_chorales,Chorale bwv307,20,24.0,0.0,2,0,1,70.5
+C2018,m21_bach_chorales,Chorale bwv308,20,24.0,0.0,2,0,1,78.9
+C2019,m21_bach_chorales,Chorale bwv309,28,44.0,0.0,2,0,1,79.7
+C2021,m21_bach_chorales,Chorale bwv310,16,16.0,0.0,0,0,1,80.7
+C2022,m21_bach_chorales,Chorale bwv311,28,42.0,0.0,2,0,1,67.8
+C2023,m21_bach_chorales,Chorale bwv312,28,36.0,0.0,18,0,0,80.8
+C2024,m21_bach_chorales,Chorale bwv313,16,20.0,0.0,2,0,1,81.3
+C2025,m21_bach_chorales,Chorale bwv314,20,16.0,0.0,8,0,1,67.9
+C2026,m21_bach_chorales,Chorale bwv315,10,12.0,0.0,2,0,1,84.0
+C2027,m21_bach_chorales,Chorale bwv316,20,28.0,0.0,2,0,1,84.8
+C2028,m21_bach_chorales,Chorale bwv317,32,56.0,0.0,16,0,0,83.4
+C2029,m21_bach_chorales,Chorale bwv318,24,24.0,0.0,0,0,1,72.2
+C2030,m21_bach_chorales,Chorale bwv319,20,20.0,0.0,16,0,0,77.8
+C2031,m21_bach_chorales,Chorale bwv32.6,24,32.0,0.0,0,0,1,73.8
+C2032,m21_bach_chorales,Chorale bwv320,24,24.0,0.0,0,0,1,73.6
+C2033,m21_bach_chorales,Chorale bwv321,16,24.0,0.0,0,0,1,72.5
+C2034,m21_bach_chorales,Chorale bwv322,36,48.0,0.0,2,0,1,87.4
+C2036,m21_bach_chorales,Chorale bwv324,8,12.0,0.0,4,0,1,61.6
+C2037,m21_bach_chorales,Chorale bwv325,40,44.0,0.0,8,0,1,85.7
+C2038,m21_bach_chorales,Chorale bwv326,16,20.0,0.0,8,0,1,67.6
+C2039,m21_bach_chorales,Chorale bwv327,8,14.0,0.0,8,0,1,60.1
+C2040,m21_bach_chorales,Chorale bwv328,90,136.0,0.0,0,0,1,88.7
+C2041,m21_bach_chorales,Chorale bwv329,28,28.0,0.0,0,0,1,80.7
+C2042,m21_bach_chorales,Chorale bwv33.6,28,32.0,0.0,18,0,0,81.7
+C2043,m21_bach_chorales,Chorale bwv330,16,24.0,0.0,0,0,1,85.6
+C2044,m21_bach_chorales,Chorale bwv331,16,24.0,0.0,0,0,1,67.3
+C2045,m21_bach_chorales,Chorale bwv332,16,12.0,0.0,8,0,1,70.8
+C2046,m21_bach_chorales,Chorale bwv333,20,24.0,0.0,10,0,0,86.0
+C2047,m21_bach_chorales,Chorale bwv334,20,28.0,0.0,10,0,0,69.0
+C2048,m21_bach_chorales,Chorale bwv335,16,12.0,0.0,8,0,1,69.1
+C2049,m21_bach_chorales,Chorale bwv336,16,13.0,0.0,8,0,1,69.9
+C2050,m21_bach_chorales,Chorale bwv337,24,24.0,0.0,0,0,1,70.7
+C2051,m21_bach_chorales,Chorale bwv338,20,24.0,0.0,10,0,0,80.0
+C2052,m21_bach_chorales,Chorale bwv339,20,28.0,0.0,0,0,1,82.8
+C2053,m21_bach_chorales,Chorale bwv340,21,34.0,0.0,18,0,0,76.1
+C2054,m21_bach_chorales,Chorale bwv341,20,20.0,0.0,0,0,1,77.4
+C2055,m21_bach_chorales,Chorale bwv342,24,24.0,0.0,0,0,1,60.8
+C2056,m21_bach_chorales,Chorale bwv343,20,36.0,0.0,2,0,1,83.4
+C2057,m21_bach_chorales,Chorale bwv344,24,24.0,0.0,0,0,1,75.4
+C2058,m21_bach_chorales,Chorale bwv345,20,28.0,0.0,2,0,1,74.8
+C2059,m21_bach_chorales,Chorale bwv346,40,45.0,0.0,16,0,0,78.0
+C2060,m21_bach_chorales,Chorale bwv347,24,36.0,0.0,10,0,0,77.9
+C2061,m21_bach_chorales,Chorale bwv348,32,28.0,0.0,8,0,1,71.8
+C2062,m21_bach_chorales,Chorale bwv349,10,10.0,0.0,0,0,1,72.7
+C2063,m21_bach_chorales,Chorale bwv350,24,20.0,0.0,8,0,1,84.8
+C2064,m21_bach_chorales,Chorale bwv351,20,16.0,0.0,8,0,1,69.4
+C2065,m21_bach_chorales,Chorale bwv352,12,16.0,0.0,0,0,1,76.0
+C2066,m21_bach_chorales,Chorale bwv353,24,32.0,0.0,0,0,1,74.9
+C2067,m21_bach_chorales,Chorale bwv354,24,32.0,0.0,0,0,1,65.8
+C2068,m21_bach_chorales,Chorale bwv355,32,32.0,0.0,0,0,1,80.5
+C2069,m21_bach_chorales,Chorale bwv356,20,28.0,0.0,0,0,1,80.9
+C2070,m21_bach_chorales,Chorale bwv357,32,32.0,0.0,0,0,1,78.9
+C2071,m21_bach_chorales,Chorale bwv358,24,36.0,0.0,0,0,1,76.7
+C2072,m21_bach_chorales,Chorale bwv359,24,32.0,0.0,0,0,1,71.6
+C2073,m21_bach_chorales,Chorale bwv36.4-2,26,34.0,0.0,2,0,1,76.2
+C2074,m21_bach_chorales,Chorale bwv36.8-2,16,16.0,0.0,0,0,1,70.3
+C2075,m21_bach_chorales,Chorale bwv360,24,32.0,0.0,0,0,1,67.7
+C2076,m21_bach_chorales,Chorale bwv361,28,28.0,0.0,0,0,1,72.5
+C2077,m21_bach_chorales,Chorale bwv362,36,60.0,0.0,2,0,1,80.1
+C2079,m21_bach_chorales,Chorale bwv364,20,24.0,0.0,8,0,1,76.6
+C2080,m21_bach_chorales,Chorale bwv365,16,24.0,0.0,0,0,1,81.3
+C2082,m21_bach_chorales,Chorale bwv367,24,28.0,0.0,8,0,1,66.5
+C2083,m21_bach_chorales,Chorale bwv368,32,32.0,0.0,0,0,1,80.0
+C2084,m21_bach_chorales,Chorale bwv369,24,44.0,0.0,10,0,0,70.2
+C2085,m21_bach_chorales,Chorale bwv37.6,32,36.0,0.0,24,0,0,71.1
+C2086,m21_bach_chorales,Chorale bwv370,16,12.0,0.0,8,0,1,76.5
+C2087,m21_bach_chorales,Chorale bwv371,72,72.0,0.0,16,0,0,92.6
+C2088,m21_bach_chorales,Chorale bwv372,28,24.0,0.0,4,0,1,77.5
+C2089,m21_bach_chorales,Chorale bwv373,16,24.0,0.0,0,0,1,79.6
+C2090,m21_bach_chorales,Chorale bwv374,30,38.0,0.0,20,0,0,83.8
+C2091,m21_bach_chorales,Chorale bwv375,20,24.0,0.0,16,0,0,70.8
+C2092,m21_bach_chorales,Chorale bwv376,18,22.0,0.0,8,0,1,65.5
+C2093,m21_bach_chorales,Chorale bwv377,16,20.0,0.0,2,0,1,71.4
+C2094,m21_bach_chorales,Chorale bwv378,32,33.0,0.0,16,0,0,85.3
+C2095,m21_bach_chorales,Chorale bwv379,16,24.0,0.0,0,0,1,82.5
+C2096,m21_bach_chorales,Chorale bwv38.6,20,28.0,0.0,0,0,1,72.3
+C2097,m21_bach_chorales,Chorale bwv380,24,24.0,0.0,8,0,1,77.0
+C2098,m21_bach_chorales,Chorale bwv381,28,28.0,0.0,0,0,1,85.0
+C2099,m21_bach_chorales,Chorale bwv382,24,28.0,0.0,16,0,0,79.2
+C2100,m21_bach_chorales,Chorale bwv383,48,56.0,0.0,24,0,0,85.3
+C2101,m21_bach_chorales,Chorale bwv384,16,20.0,0.0,2,0,1,65.8
+C2102,m21_bach_chorales,Chorale bwv385,24,20.0,0.0,0,0,1,70.9
+C2103,m21_bach_chorales,Chorale bwv386,24,36.0,0.0,10,0,0,75.0
+C2104,m21_bach_chorales,Chorale bwv387,16,12.0,0.0,8,0,1,75.9
+C2105,m21_bach_chorales,Chorale bwv388,20,24.0,0.0,10,0,0,81.8
+C2106,m21_bach_chorales,Chorale bwv389,40,48.0,0.0,2,0,1,81.7
+C2107,m21_bach_chorales,Chorale bwv39.7,24,32.0,0.0,0,0,1,65.9
+C2108,m21_bach_chorales,Chorale bwv390,20,46.0,0.0,26,0,0,76.7
+C2109,m21_bach_chorales,Chorale bwv391,24,28.0,0.0,0,0,1,66.5
+C2110,m21_bach_chorales,Chorale bwv392,24,20.0,0.0,16,0,0,74.7
+C2111,m21_bach_chorales,Chorale bwv393,24,24.0,0.0,16,0,0,68.0
+C2112,m21_bach_chorales,Chorale bwv394,24,20.0,0.0,16,0,0,72.0
+C2113,m21_bach_chorales,Chorale bwv395,24,20.0,0.0,16,0,0,69.4
+C2114,m21_bach_chorales,Chorale bwv396,16,19.0,0.0,8,0,1,72.4
+C2115,m21_bach_chorales,Chorale bwv397,10,16.0,0.0,0,0,1,81.6
+C2117,m21_bach_chorales,Chorale bwv399,12,22.0,0.0,10,0,0,79.0
+C2118,m21_bach_chorales,Chorale bwv4.8,24,28.0,0.0,14,0,0,73.0
+C2119,m21_bach_chorales,Chorale bwv40.3,28,24.0,0.0,0,0,1,63.9
+C2120,m21_bach_chorales,Chorale bwv40.6,32,32.0,0.0,0,0,1,65.1
+C2121,m21_bach_chorales,Chorale bwv40.8,36,36.0,0.0,0,0,1,68.9
+C2122,m21_bach_chorales,Chorale bwv400,28,28.0,0.0,0,0,1,69.8
+C2123,m21_bach_chorales,Chorale bwv401,20,29.0,0.0,10,0,0,87.9
+C2124,m21_bach_chorales,Chorale bwv402,36,44.0,0.0,26,0,0,87.3
+C2125,m21_bach_chorales,Chorale bwv403,24,28.0,0.0,8,0,1,70.1
+C2126,m21_bach_chorales,Chorale bwv404,20,20.0,0.0,0,0,1,61.9
+C2127,m21_bach_chorales,Chorale bwv405,16,16.0,0.0,0,0,1,69.8
+C2128,m21_bach_chorales,Chorale bwv406,16,16.0,0.0,8,0,1,84.3
+C2129,m21_bach_chorales,Chorale bwv407,40,40.0,0.0,0,0,1,85.7
+C2130,m21_bach_chorales,Chorale bwv408,32,28.0,0.0,0,0,1,75.0
+C2131,m21_bach_chorales,Chorale bwv409,24,25.0,0.0,8,0,1,76.0
+C2132,m21_bach_chorales,Chorale bwv41.6,64,96.0,0.0,20,0,0,83.8
+C2133,m21_bach_chorales,Chorale bwv410,24,24.0,0.0,8,0,1,73.9
+C2134,m21_bach_chorales,Chorale bwv411,24,33.0,0.0,8,0,1,82.5
+C2135,m21_bach_chorales,Chorale bwv412,36,32.0,0.0,0,0,1,74.2
+C2136,m21_bach_chorales,Chorale bwv413,32,40.0,0.0,0,0,1,81.7
+C2137,m21_bach_chorales,Chorale bwv414,16,32.0,0.0,2,0,1,72.0
+C2138,m21_bach_chorales,Chorale bwv415,24,44.0,0.0,10,0,0,77.2
+C2139,m21_bach_chorales,Chorale bwv416,24,20.0,0.0,16,0,0,67.1
+C2140,m21_bach_chorales,Chorale bwv417,24,40.0,0.0,10,0,0,78.8
+C2141,m21_bach_chorales,Chorale bwv418,32,40.0,0.0,16,0,0,70.2
+C2142,m21_bach_chorales,Chorale bwv419,24,40.0,0.0,10,0,0,72.8
+C2143,m21_bach_chorales,Chorale bwv42.7,48,48.0,0.0,24,0,0,80.9
+C2144,m21_bach_chorales,Chorale bwv420,20,16.0,0.0,0,0,1,74.8
+C2145,m21_bach_chorales,Chorale bwv421,20,16.0,0.0,0,0,1,63.6
+C2146,m21_bach_chorales,Chorale bwv422,32,32.0,0.0,8,0,1,75.0
+C2147,m21_bach_chorales,Chorale bwv423,32,32.0,0.0,0,0,1,83.0
+C2148,m21_bach_chorales,Chorale bwv424,20,28.0,0.0,0,0,1,74.3
+C2149,m21_bach_chorales,Chorale bwv425,36,48.0,0.0,32,0,0,89.7
+C2150,m21_bach_chorales,Chorale bwv426,28,32.0,0.0,16,0,0,77.5
+C2151,m21_bach_chorales,Chorale bwv427,24,28.0,0.0,16,0,0,74.3
+C2152,m21_bach_chorales,Chorale bwv428,28,28.0,0.0,8,0,1,77.9
+C2153,m21_bach_chorales,Chorale bwv429,28,28.0,0.0,24,0,0,78.9
+C2154,m21_bach_chorales,Chorale bwv43.11,24,36.0,0.0,8,0,1,65.0
+C2155,m21_bach_chorales,Chorale bwv430,28,28.0,0.0,24,0,0,79.4
+C2156,m21_bach_chorales,Chorale bwv431,16,12.0,0.0,0,0,1,78.2
+C2157,m21_bach_chorales,Chorale bwv432,16,12.0,0.0,8,0,1,74.9
+C2158,m21_bach_chorales,Chorale bwv433,26,35.0,0.0,0,0,1,79.5
+C2159,m21_bach_chorales,Chorale bwv434,16,28.0,0.0,2,0,1,67.9
+C2160,m21_bach_chorales,Chorale bwv435,24,20.0,0.0,0,0,1,71.6
+C2161,m21_bach_chorales,Chorale bwv436,10,13.0,0.0,2,0,1,68.8
+C2162,m21_bach_chorales,Chorale bwv437,52,52.0,0.0,0,0,1,90.4
+C2163,m21_bach_chorales,Chorale bwv438,16,12.0,0.0,8,0,1,79.0
+C2164,m21_bach_chorales,Chorale bwv44.7,24,20.0,0.0,16,0,0,62.3
+C2165,m21_bach_chorales,Chorale bwv45.7,32,40.0,0.0,16,0,0,70.5
+C2166,m21_bach_chorales,Chorale bwv46.6,32,32.0,0.0,0,0,1,66.6
+C2167,m21_bach_chorales,Chorale bwv47.5,20,16.0,0.0,16,0,0,60.7
+C2168,m21_bach_chorales,Chorale bwv48.3,24,27.0,0.0,4,0,1,68.0
+C2169,m21_bach_chorales,Chorale bwv48.7,20,28.0,0.0,10,0,0,72.0
+C2170,m21_bach_chorales,Chorale bwv5.7,24,24.0,0.0,16,0,0,61.3
+C2171,m21_bach_chorales,Chorale bwv52.6,12,12.0,0.0,0,0,1,71.1
+C2172,m21_bach_chorales,Chorale bwv55.5,24,32.0,0.0,0,0,1,67.6
+C2173,m21_bach_chorales,Chorale bwv56.5,20,32.0,0.0,0,0,1,70.0
+C2174,m21_bach_chorales,Chorale bwv57.8,16,20.0,0.0,0,0,1,60.9
+C2175,m21_bach_chorales,Chorale bwv59.3,22,22.0,0.0,0,0,1,76.8
+C2176,m21_bach_chorales,Chorale bwv6.6,16,16.0,0.0,8,0,1,72.1
+C2177,m21_bach_chorales,Chorale bwv60.5,39,39.0,0.0,0,0,1,67.9
+C2178,m21_bach_chorales,Chorale bwv62.6,16,12.0,0.0,8,0,1,79.3
+C2179,m21_bach_chorales,Chorale bwv64.2,16,16.0,0.0,8,0,1,64.5
+C2180,m21_bach_chorales,Chorale bwv64.4,32,36.0,0.0,16,0,0,71.3
+C2181,m21_bach_chorales,Chorale bwv64.8,24,36.0,0.0,0,0,1,75.1
+C2182,m21_bach_chorales,Chorale bwv65.2,16,16.0,0.0,0,0,1,57.3
+C2183,m21_bach_chorales,Chorale bwv65.7,24,36.0,0.0,2,0,1,72.7
+C2186,m21_bach_chorales,Chorale bwv67.7,16,32.0,0.0,2,0,1,60.5
+C2187,m21_bach_chorales,Chorale bwv69.6-a,24,28.0,0.0,10,0,0,71.6
+C2188,m21_bach_chorales,Chorale bwv69.6,14,14.0,0.0,0,0,1,83.0
+C2190,m21_bach_chorales,Chorale bwv70.11,37,37.0,0.0,0,0,1,79.5
+C2193,m21_bach_chorales,Chorale bwv73.5,20,36.0,0.0,10,0,0,63.8
+C2194,m21_bach_chorales,Chorale bwv74.8,24,24.0,0.0,16,0,0,70.9
+C2195,m21_bach_chorales,Chorale bwv77.6,20,36.0,0.0,10,0,0,73.4
+C2196,m21_bach_chorales,Chorale bwv78.7,32,32.0,0.0,0,0,1,68.0
+C2200,m21_bach_chorales,Chorale bwv80.8,14,22.0,0.0,10,0,0,74.7
+C2201,m21_bach_chorales,Chorale bwv81.7,24,36.0,0.0,0,0,1,73.0
+C2202,m21_bach_chorales,Chorale bwv83.5,24,24.0,0.0,8,0,1,64.3
+C2203,m21_bach_chorales,Chorale bwv84.5,16,20.0,0.0,2,0,1,62.1
+C2204,m21_bach_chorales,Chorale bwv85.6,28,24.0,0.0,0,0,1,74.6
+C2205,m21_bach_chorales,Chorale bwv86.6,20,24.0,0.0,10,0,0,75.0
+C2206,m21_bach_chorales,Chorale bwv87.7,24,36.0,0.0,0,0,1,83.0
+C2207,m21_bach_chorales,Chorale bwv88.7,16,28.0,0.0,2,0,1,70.3
+C2208,m21_bach_chorales,Chorale bwv89.6,24,20.0,0.0,16,0,0,63.4
+C2209,m21_bach_chorales,Chorale bwv9.7,20,24.0,0.0,2,0,1,69.5
+C2210,m21_bach_chorales,Chorale bwv90.5,16,18.0,0.0,16,0,0,65.7
+C2211,m21_bach_chorales,Chorale bwv91.6,33,26.0,0.0,0,0,1,72.5
+C2214,m21_bach_chorales,Chorale bwv94.8,32,40.0,0.0,16,0,0,68.5
+C2215,m21_bach_chorales,Chorale bwv95.7,13,13.0,0.0,0,0,1,79.1
+C2216,m21_bach_chorales,Chorale bwv96.6,20,36.0,0.0,2,0,1,71.2
+C2217,m21_bach_chorales,Chorale bwv97.9,12,12.0,0.0,0,0,1,75.8

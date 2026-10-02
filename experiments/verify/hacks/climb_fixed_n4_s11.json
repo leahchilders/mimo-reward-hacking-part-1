@@ -1,0 +1,27 @@
+{
+ "seed": 11,
+ "nbar": 4,
+ "start": 0.655,
+ "best": 0.9620000000000001,
+ "chars": 302,
+ "abc": "X:1\nT:c\nM:4/4\nL:1/8\nQ:1/4=100\nK:C\nV:1\n|: .g4 .e4 | .A2 .f3 .[fa] c .[DF] | .e .g f3 .C .D2 | [GB] .e2 .F3 F .[df] :|\nV:2\n|: A,3 .C .D4 | .E .D .D E D,4 | .D,2 .D, [D,F,] F, .[A,C] .A,2 | G2 D,2 .F, [E,G,] [F,A,]2 :|\nV:3\n|: .C,,4 .C,2 D, .A,, | .A,,2 .F,,3 .A,3 | .D,2 .G,3 D,,3 | .A,4 .B,, .D,,2 D,, :|",
+ "traj": [
+  0.655,
+  0.804,
+  0.864,
+  0.905,
+  0.92,
+  0.94,
+  0.942,
+  0.954,
+  0.957,
+  0.958,
+  0.958,
+  0.958
+ ],
+ "best_unfixed": 0.927,
+ "best_fixed": 0.9620000000000001,
+ "son_phase": 30,
+ "published_loop_unfixed": 0.973,
+ "published_loop_fixed": 0.907
+}

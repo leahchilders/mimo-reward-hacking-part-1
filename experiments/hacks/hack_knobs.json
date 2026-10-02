@@ -1,0 +1,3642 @@
+[
+ {
+  "kind": "hack",
+  "pid": "climb_s1_st0_b16",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.9159999999999999,
+  "reward": 0.941,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s1_st0_b16",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.9159999999999999,
+  "reward": 0.945,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s1_st0_b16",
+  "knob": "!>! accent on every melody note",
+  "base": 0.9159999999999999,
+  "reward": 0.9159999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s1_st0_b16",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.9159999999999999,
+  "reward": 0.9329999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s1_st0_b16",
+  "knob": "remove all staccato",
+  "base": 0.9159999999999999,
+  "reward": 0.9159999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s1_st0_b16",
+  "knob": "melody octave-doubled",
+  "base": 0.9159999999999999,
+  "reward": 0.84,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s1_st0_b16",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.9159999999999999,
+  "reward": 0.9159999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s1_st0_b16",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.9159999999999999,
+  "reward": 0.91,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s1_st0_b16",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.9159999999999999,
+  "reward": 0.9390000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s1_st0_b16",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.9159999999999999,
+  "reward": 0.9159999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s1_st0_b16",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.9159999999999999,
+  "reward": 0.9079999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s1_st0_b16",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.9159999999999999,
+  "reward": 0.9159999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s1_st0_b16",
+  "knob": "lyrics w: under melody",
+  "base": 0.9159999999999999,
+  "reward": 0.9159999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s1_st1_b16",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.956,
+  "reward": 0.9540000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s1_st1_b16",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.956,
+  "reward": 0.9440000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s1_st1_b16",
+  "knob": "!>! accent on every melody note",
+  "base": 0.956,
+  "reward": 0.956,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s1_st1_b16",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.956,
+  "reward": 0.912,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s1_st1_b16",
+  "knob": "remove all staccato",
+  "base": 0.956,
+  "reward": 0.91,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s1_st1_b16",
+  "knob": "melody octave-doubled",
+  "base": 0.956,
+  "reward": 0.86,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s1_st1_b16",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.956,
+  "reward": 0.956,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s1_st1_b16",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.956,
+  "reward": 0.929,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s1_st1_b16",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.956,
+  "reward": 0.9790000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s1_st1_b16",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.956,
+  "reward": 0.956,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s1_st1_b16",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.956,
+  "reward": 0.948,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s1_st1_b16",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.956,
+  "reward": 0.956,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s1_st1_b16",
+  "knob": "lyrics w: under melody",
+  "base": 0.956,
+  "reward": 0.956,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s2_st0_b16",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.9390000000000001,
+  "reward": 0.9640000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s2_st0_b16",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.9390000000000001,
+  "reward": 0.9670000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s2_st0_b16",
+  "knob": "!>! accent on every melody note",
+  "base": 0.9390000000000001,
+  "reward": 0.9390000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s2_st0_b16",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.9390000000000001,
+  "reward": 0.95,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s2_st0_b16",
+  "knob": "remove all staccato",
+  "base": 0.9390000000000001,
+  "reward": 0.9390000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s2_st0_b16",
+  "knob": "melody octave-doubled",
+  "base": 0.9390000000000001,
+  "reward": 0.867,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s2_st0_b16",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.9390000000000001,
+  "reward": 0.9390000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s2_st0_b16",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.9390000000000001,
+  "reward": 0.8959999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s2_st0_b16",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.9390000000000001,
+  "reward": 0.94,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s2_st0_b16",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.9390000000000001,
+  "reward": 0.9390000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s2_st0_b16",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.9390000000000001,
+  "reward": 0.9259999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s2_st0_b16",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.9390000000000001,
+  "reward": 0.9390000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s2_st0_b16",
+  "knob": "lyrics w: under melody",
+  "base": 0.9390000000000001,
+  "reward": 0.9390000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s2_st1_b16",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.978,
+  "reward": 0.977,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s2_st1_b16",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.978,
+  "reward": 0.972,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s2_st1_b16",
+  "knob": "!>! accent on every melody note",
+  "base": 0.978,
+  "reward": 0.978,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s2_st1_b16",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.978,
+  "reward": 0.95,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s2_st1_b16",
+  "knob": "remove all staccato",
+  "base": 0.978,
+  "reward": 0.8959999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s2_st1_b16",
+  "knob": "melody octave-doubled",
+  "base": 0.978,
+  "reward": 0.868,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s2_st1_b16",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.978,
+  "reward": 0.978,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s2_st1_b16",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.978,
+  "reward": 0.919,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s2_st1_b16",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.978,
+  "reward": 0.935,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s2_st1_b16",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.978,
+  "reward": 0.978,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s2_st1_b16",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.978,
+  "reward": 0.903,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s2_st1_b16",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.978,
+  "reward": 0.978,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s2_st1_b16",
+  "knob": "lyrics w: under melody",
+  "base": 0.978,
+  "reward": 0.978,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s3_st0_b16",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.938,
+  "reward": 0.9640000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s3_st0_b16",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.938,
+  "reward": 0.95,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s3_st0_b16",
+  "knob": "!>! accent on every melody note",
+  "base": 0.938,
+  "reward": 0.938,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s3_st0_b16",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.938,
+  "reward": 0.895,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s3_st0_b16",
+  "knob": "remove all staccato",
+  "base": 0.938,
+  "reward": 0.938,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s3_st0_b16",
+  "knob": "melody octave-doubled",
+  "base": 0.938,
+  "reward": 0.86,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s3_st0_b16",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.938,
+  "reward": 0.938,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s3_st0_b16",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.938,
+  "reward": 0.885,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s3_st0_b16",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.938,
+  "reward": 0.9359999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s3_st0_b16",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.938,
+  "reward": 0.938,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s3_st0_b16",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.938,
+  "reward": 0.924,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s3_st0_b16",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.938,
+  "reward": 0.938,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s3_st0_b16",
+  "knob": "lyrics w: under melody",
+  "base": 0.938,
+  "reward": 0.938,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s3_st1_b16",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.955,
+  "reward": 0.9540000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s3_st1_b16",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.955,
+  "reward": 0.9329999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s3_st1_b16",
+  "knob": "!>! accent on every melody note",
+  "base": 0.955,
+  "reward": 0.955,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s3_st1_b16",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.955,
+  "reward": 0.912,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s3_st1_b16",
+  "knob": "remove all staccato",
+  "base": 0.955,
+  "reward": 0.903,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s3_st1_b16",
+  "knob": "melody octave-doubled",
+  "base": 0.955,
+  "reward": 0.816,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s3_st1_b16",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.955,
+  "reward": 0.955,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s3_st1_b16",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.955,
+  "reward": 0.905,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s3_st1_b16",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.955,
+  "reward": 0.95,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s3_st1_b16",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.955,
+  "reward": 0.955,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s3_st1_b16",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.955,
+  "reward": 0.951,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s3_st1_b16",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.955,
+  "reward": 0.955,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s3_st1_b16",
+  "knob": "lyrics w: under melody",
+  "base": 0.955,
+  "reward": 0.955,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s4_st0_b16",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.938,
+  "reward": 0.958,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s4_st0_b16",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.938,
+  "reward": 0.968,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s4_st0_b16",
+  "knob": "!>! accent on every melody note",
+  "base": 0.938,
+  "reward": 0.938,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s4_st0_b16",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.938,
+  "reward": 0.9740000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s4_st0_b16",
+  "knob": "remove all staccato",
+  "base": 0.938,
+  "reward": 0.938,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s4_st0_b16",
+  "knob": "melody octave-doubled",
+  "base": 0.938,
+  "reward": 0.877,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s4_st0_b16",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.938,
+  "reward": 0.938,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s4_st0_b16",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.938,
+  "reward": 0.922,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s4_st0_b16",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.938,
+  "reward": 0.938,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s4_st0_b16",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.938,
+  "reward": 0.938,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s4_st0_b16",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.938,
+  "reward": 0.922,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s4_st0_b16",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.938,
+  "reward": 0.938,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s4_st0_b16",
+  "knob": "lyrics w: under melody",
+  "base": 0.938,
+  "reward": 0.938,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s4_st1_b16",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.976,
+  "reward": 0.975,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s4_st1_b16",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.976,
+  "reward": 0.971,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s4_st1_b16",
+  "knob": "!>! accent on every melody note",
+  "base": 0.976,
+  "reward": 0.976,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s4_st1_b16",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.976,
+  "reward": 0.935,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s4_st1_b16",
+  "knob": "remove all staccato",
+  "base": 0.976,
+  "reward": 0.935,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s4_st1_b16",
+  "knob": "melody octave-doubled",
+  "base": 0.976,
+  "reward": 0.907,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s4_st1_b16",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.976,
+  "reward": 0.976,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s4_st1_b16",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.976,
+  "reward": 0.9420000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s4_st1_b16",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.976,
+  "reward": 0.976,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s4_st1_b16",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.976,
+  "reward": 0.976,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s4_st1_b16",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.976,
+  "reward": 0.9620000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s4_st1_b16",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.976,
+  "reward": 0.971,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "hack",
+  "pid": "climb_s4_st1_b16",
+  "knob": "lyrics w: under melody",
+  "base": 0.976,
+  "reward": 0.976,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r0",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.883,
+  "reward": 0.882,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r0",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.883,
+  "reward": 0.894,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r0",
+  "knob": "!>! accent on every melody note",
+  "base": 0.883,
+  "reward": 0.883,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r0",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.883,
+  "reward": 0.8809999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r0",
+  "knob": "remove all staccato",
+  "base": 0.883,
+  "reward": 0.8190000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r0",
+  "knob": "melody octave-doubled",
+  "base": 0.883,
+  "reward": 0.7909999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r0",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.883,
+  "reward": 0.883,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r0",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.883,
+  "reward": 0.887,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r0",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.883,
+  "reward": 0.885,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r0",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.883,
+  "reward": 0.8909999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r0",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.883,
+  "reward": 0.878,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r0",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.883,
+  "reward": 0.883,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r0",
+  "knob": "lyrics w: under melody",
+  "base": 0.883,
+  "reward": 0.883,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r1",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.851,
+  "reward": 0.856,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r1",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.851,
+  "reward": 0.8490000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r1",
+  "knob": "!>! accent on every melody note",
+  "base": 0.851,
+  "reward": 0.851,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r1",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.851,
+  "reward": 0.867,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r1",
+  "knob": "remove all staccato",
+  "base": 0.851,
+  "reward": 0.843,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r1",
+  "knob": "melody octave-doubled",
+  "base": 0.851,
+  "reward": 0.778,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r1",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.851,
+  "reward": 0.851,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r1",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.851,
+  "reward": 0.852,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r1",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.851,
+  "reward": 0.851,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r1",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.851,
+  "reward": 0.877,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r1",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.851,
+  "reward": 0.882,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r1",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.851,
+  "reward": 0.851,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r1",
+  "knob": "lyrics w: under melody",
+  "base": 0.851,
+  "reward": 0.851,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r2",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.843,
+  "reward": 0.846,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r2",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.843,
+  "reward": 0.826,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r2",
+  "knob": "!>! accent on every melody note",
+  "base": 0.843,
+  "reward": 0.843,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r2",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.843,
+  "reward": 0.852,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r2",
+  "knob": "remove all staccato",
+  "base": 0.843,
+  "reward": 0.813,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r2",
+  "knob": "melody octave-doubled",
+  "base": 0.843,
+  "reward": 0.767,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r2",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.843,
+  "reward": 0.843,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r2",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.843,
+  "reward": 0.825,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r2",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.843,
+  "reward": 0.841,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r2",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.843,
+  "reward": 0.871,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r2",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.843,
+  "reward": 0.899,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r2",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.843,
+  "reward": 0.847,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r2",
+  "knob": "lyrics w: under melody",
+  "base": 0.843,
+  "reward": 0.843,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r3",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.8420000000000001,
+  "reward": 0.826,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r3",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.8420000000000001,
+  "reward": 0.836,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r3",
+  "knob": "!>! accent on every melody note",
+  "base": 0.8420000000000001,
+  "reward": 0.8420000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r3",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.8420000000000001,
+  "reward": 0.8140000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r3",
+  "knob": "remove all staccato",
+  "base": 0.8420000000000001,
+  "reward": 0.79,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r3",
+  "knob": "melody octave-doubled",
+  "base": 0.8420000000000001,
+  "reward": 0.805,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r3",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.8420000000000001,
+  "reward": 0.8420000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r3",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.8420000000000001,
+  "reward": 0.8440000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r3",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.8420000000000001,
+  "reward": 0.8640000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r3",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.8420000000000001,
+  "reward": 0.852,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r3",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.8420000000000001,
+  "reward": 0.889,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r3",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.8420000000000001,
+  "reward": 0.8420000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r3",
+  "knob": "lyrics w: under melody",
+  "base": 0.8420000000000001,
+  "reward": 0.8420000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r4",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.861,
+  "reward": 0.862,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r4",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.861,
+  "reward": 0.847,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r4",
+  "knob": "!>! accent on every melody note",
+  "base": 0.861,
+  "reward": 0.861,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r4",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.861,
+  "reward": 0.87,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r4",
+  "knob": "remove all staccato",
+  "base": 0.861,
+  "reward": 0.8320000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r4",
+  "knob": "melody octave-doubled",
+  "base": 0.861,
+  "reward": 0.784,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r4",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.861,
+  "reward": 0.861,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r4",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.861,
+  "reward": 0.868,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r4",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.861,
+  "reward": 0.873,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r4",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.861,
+  "reward": 0.882,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r4",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.861,
+  "reward": 0.894,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r4",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.861,
+  "reward": 0.861,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r4",
+  "knob": "lyrics w: under melody",
+  "base": 0.861,
+  "reward": 0.861,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r5",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.836,
+  "reward": 0.836,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r5",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.836,
+  "reward": 0.836,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r5",
+  "knob": "!>! accent on every melody note",
+  "base": 0.836,
+  "reward": 0.836,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r5",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.836,
+  "reward": 0.825,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r5",
+  "knob": "remove all staccato",
+  "base": 0.836,
+  "reward": 0.823,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r5",
+  "knob": "melody octave-doubled",
+  "base": 0.836,
+  "reward": 0.787,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r5",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.836,
+  "reward": 0.836,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r5",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.836,
+  "reward": 0.846,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r5",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.836,
+  "reward": 0.857,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r5",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.836,
+  "reward": 0.86,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r5",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.836,
+  "reward": 0.882,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r5",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.836,
+  "reward": 0.836,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r5",
+  "knob": "lyrics w: under melody",
+  "base": 0.836,
+  "reward": 0.836,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r6",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.843,
+  "reward": 0.8420000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r6",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.843,
+  "reward": 0.8420000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r6",
+  "knob": "!>! accent on every melody note",
+  "base": 0.843,
+  "reward": 0.843,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r6",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.843,
+  "reward": 0.816,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r6",
+  "knob": "remove all staccato",
+  "base": 0.843,
+  "reward": 0.8,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r6",
+  "knob": "melody octave-doubled",
+  "base": 0.843,
+  "reward": 0.782,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r6",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.843,
+  "reward": 0.843,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r6",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.843,
+  "reward": 0.825,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r6",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.843,
+  "reward": 0.863,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r6",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.843,
+  "reward": 0.86,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r6",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.843,
+  "reward": 0.884,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r6",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.843,
+  "reward": 0.843,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r6",
+  "knob": "lyrics w: under melody",
+  "base": 0.843,
+  "reward": 0.843,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r7",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.898,
+  "reward": 0.898,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r7",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.898,
+  "reward": 0.905,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r7",
+  "knob": "!>! accent on every melody note",
+  "base": 0.898,
+  "reward": 0.898,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r7",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.898,
+  "reward": 0.904,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r7",
+  "knob": "remove all staccato",
+  "base": 0.898,
+  "reward": 0.8540000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r7",
+  "knob": "melody octave-doubled",
+  "base": 0.898,
+  "reward": 0.8,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r7",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.898,
+  "reward": 0.898,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r7",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.898,
+  "reward": 0.904,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r7",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.898,
+  "reward": 0.92,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r7",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.898,
+  "reward": 0.919,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r7",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.898,
+  "reward": 0.9109999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r7",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.898,
+  "reward": 0.898,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r7",
+  "knob": "lyrics w: under melody",
+  "base": 0.898,
+  "reward": 0.898,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r8",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.877,
+  "reward": 0.885,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r8",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.877,
+  "reward": 0.877,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r8",
+  "knob": "!>! accent on every melody note",
+  "base": 0.877,
+  "reward": 0.877,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r8",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.877,
+  "reward": 0.8690000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r8",
+  "knob": "remove all staccato",
+  "base": 0.877,
+  "reward": 0.816,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r8",
+  "knob": "melody octave-doubled",
+  "base": 0.877,
+  "reward": 0.8079999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r8",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.877,
+  "reward": 0.877,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r8",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.877,
+  "reward": 0.8740000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r8",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.877,
+  "reward": 0.875,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r8",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.877,
+  "reward": 0.9009999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r8",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.877,
+  "reward": 0.882,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r8",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.877,
+  "reward": 0.877,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r8",
+  "knob": "lyrics w: under melody",
+  "base": 0.877,
+  "reward": 0.877,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r9",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.88,
+  "reward": 0.878,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r9",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.88,
+  "reward": 0.888,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r9",
+  "knob": "!>! accent on every melody note",
+  "base": 0.88,
+  "reward": 0.88,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r9",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.88,
+  "reward": 0.863,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r9",
+  "knob": "remove all staccato",
+  "base": 0.88,
+  "reward": 0.804,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r9",
+  "knob": "melody octave-doubled",
+  "base": 0.88,
+  "reward": 0.807,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r9",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.88,
+  "reward": 0.88,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r9",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.88,
+  "reward": 0.866,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r9",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.88,
+  "reward": 0.879,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r9",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.88,
+  "reward": 0.9009999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r9",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.88,
+  "reward": 0.8909999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r9",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.88,
+  "reward": 0.88,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r9",
+  "knob": "lyrics w: under melody",
+  "base": 0.88,
+  "reward": 0.88,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r10",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.83,
+  "reward": 0.831,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r10",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.83,
+  "reward": 0.847,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r10",
+  "knob": "!>! accent on every melody note",
+  "base": 0.83,
+  "reward": 0.83,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r10",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.83,
+  "reward": 0.8270000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r10",
+  "knob": "remove all staccato",
+  "base": 0.83,
+  "reward": 0.8140000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r10",
+  "knob": "melody octave-doubled",
+  "base": 0.83,
+  "reward": 0.73,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r10",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.83,
+  "reward": 0.83,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r10",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.83,
+  "reward": 0.8240000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r10",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.83,
+  "reward": 0.831,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r10",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.83,
+  "reward": 0.8540000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r10",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.83,
+  "reward": 0.878,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r10",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.83,
+  "reward": 0.83,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r10",
+  "knob": "lyrics w: under melody",
+  "base": 0.83,
+  "reward": 0.83,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r11",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.861,
+  "reward": 0.8640000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r11",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.861,
+  "reward": 0.883,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r11",
+  "knob": "!>! accent on every melody note",
+  "base": 0.861,
+  "reward": 0.861,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r11",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.861,
+  "reward": 0.867,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r11",
+  "knob": "remove all staccato",
+  "base": 0.861,
+  "reward": 0.8270000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r11",
+  "knob": "melody octave-doubled",
+  "base": 0.861,
+  "reward": 0.782,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r11",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.861,
+  "reward": 0.861,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r11",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.861,
+  "reward": 0.887,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r11",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.861,
+  "reward": 0.86,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r11",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.861,
+  "reward": 0.888,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r11",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.861,
+  "reward": 0.867,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r11",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.861,
+  "reward": 0.861,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r11",
+  "knob": "lyrics w: under melody",
+  "base": 0.861,
+  "reward": 0.861,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r12",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.845,
+  "reward": 0.848,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r12",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.845,
+  "reward": 0.835,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r12",
+  "knob": "!>! accent on every melody note",
+  "base": 0.845,
+  "reward": 0.845,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r12",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.845,
+  "reward": 0.835,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r12",
+  "knob": "remove all staccato",
+  "base": 0.845,
+  "reward": 0.8009999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r12",
+  "knob": "melody octave-doubled",
+  "base": 0.845,
+  "reward": 0.8029999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r12",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.845,
+  "reward": 0.845,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r12",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.845,
+  "reward": 0.8370000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r12",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.845,
+  "reward": 0.8690000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r12",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.845,
+  "reward": 0.8490000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r12",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.845,
+  "reward": 0.892,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r12",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.845,
+  "reward": 0.845,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r12",
+  "knob": "lyrics w: under melody",
+  "base": 0.845,
+  "reward": 0.845,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r13",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.879,
+  "reward": 0.8859999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r13",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.879,
+  "reward": 0.8690000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r13",
+  "knob": "!>! accent on every melody note",
+  "base": 0.879,
+  "reward": 0.879,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r13",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.879,
+  "reward": 0.878,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r13",
+  "knob": "remove all staccato",
+  "base": 0.879,
+  "reward": 0.856,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r13",
+  "knob": "melody octave-doubled",
+  "base": 0.879,
+  "reward": 0.843,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r13",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.879,
+  "reward": 0.879,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r13",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.879,
+  "reward": 0.893,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r13",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.879,
+  "reward": 0.8809999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r13",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.879,
+  "reward": 0.8959999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r13",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.879,
+  "reward": 0.9009999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r13",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.879,
+  "reward": 0.879,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r13",
+  "knob": "lyrics w: under melody",
+  "base": 0.879,
+  "reward": 0.879,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r14",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.863,
+  "reward": 0.851,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r14",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.863,
+  "reward": 0.8740000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r14",
+  "knob": "!>! accent on every melody note",
+  "base": 0.863,
+  "reward": 0.863,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r14",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.863,
+  "reward": 0.81,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r14",
+  "knob": "remove all staccato",
+  "base": 0.863,
+  "reward": 0.804,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r14",
+  "knob": "melody octave-doubled",
+  "base": 0.863,
+  "reward": 0.7659999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r14",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.863,
+  "reward": 0.863,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r14",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.863,
+  "reward": 0.85,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r14",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.863,
+  "reward": 0.883,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r14",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.863,
+  "reward": 0.8690000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r14",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.863,
+  "reward": 0.893,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r14",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.863,
+  "reward": 0.863,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r14",
+  "knob": "lyrics w: under melody",
+  "base": 0.863,
+  "reward": 0.863,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r15",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.8859999999999999,
+  "reward": 0.888,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r15",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.8859999999999999,
+  "reward": 0.883,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r15",
+  "knob": "!>! accent on every melody note",
+  "base": 0.8859999999999999,
+  "reward": 0.8859999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r15",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.8859999999999999,
+  "reward": 0.8220000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r15",
+  "knob": "remove all staccato",
+  "base": 0.8859999999999999,
+  "reward": 0.8540000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r15",
+  "knob": "melody octave-doubled",
+  "base": 0.8859999999999999,
+  "reward": 0.8320000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r15",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.8859999999999999,
+  "reward": 0.8859999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r15",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.8859999999999999,
+  "reward": 0.88,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r15",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.8859999999999999,
+  "reward": 0.902,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r15",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.8859999999999999,
+  "reward": 0.8859999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r15",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.8859999999999999,
+  "reward": 0.9129999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r15",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.8859999999999999,
+  "reward": 0.8859999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r15",
+  "knob": "lyrics w: under melody",
+  "base": 0.8859999999999999,
+  "reward": 0.8859999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r16",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.8809999999999999,
+  "reward": 0.884,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r16",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.8809999999999999,
+  "reward": 0.877,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r16",
+  "knob": "!>! accent on every melody note",
+  "base": 0.8809999999999999,
+  "reward": 0.8809999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r16",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.8809999999999999,
+  "reward": 0.858,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r16",
+  "knob": "remove all staccato",
+  "base": 0.8809999999999999,
+  "reward": 0.836,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r16",
+  "knob": "melody octave-doubled",
+  "base": 0.8809999999999999,
+  "reward": 0.8109999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r16",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.8809999999999999,
+  "reward": 0.8809999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r16",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.8809999999999999,
+  "reward": 0.871,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r16",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.8809999999999999,
+  "reward": 0.9059999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r16",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.8809999999999999,
+  "reward": 0.902,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r16",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.8809999999999999,
+  "reward": 0.9079999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r16",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.8809999999999999,
+  "reward": 0.8809999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r16",
+  "knob": "lyrics w: under melody",
+  "base": 0.8809999999999999,
+  "reward": 0.8809999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r17",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.8540000000000001,
+  "reward": 0.855,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r17",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.8540000000000001,
+  "reward": 0.868,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r17",
+  "knob": "!>! accent on every melody note",
+  "base": 0.8540000000000001,
+  "reward": 0.8540000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r17",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.8540000000000001,
+  "reward": 0.843,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r17",
+  "knob": "remove all staccato",
+  "base": 0.8540000000000001,
+  "reward": 0.81,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r17",
+  "knob": "melody octave-doubled",
+  "base": 0.8540000000000001,
+  "reward": 0.789,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r17",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.8540000000000001,
+  "reward": 0.8540000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r17",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.8540000000000001,
+  "reward": 0.877,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r17",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.8540000000000001,
+  "reward": 0.8490000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r17",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.8540000000000001,
+  "reward": 0.887,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r17",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.8540000000000001,
+  "reward": 0.925,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r17",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.8540000000000001,
+  "reward": 0.8540000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r17",
+  "knob": "lyrics w: under melody",
+  "base": 0.8540000000000001,
+  "reward": 0.8540000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r18",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.912,
+  "reward": 0.915,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r18",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.912,
+  "reward": 0.914,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r18",
+  "knob": "!>! accent on every melody note",
+  "base": 0.912,
+  "reward": 0.912,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r18",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.912,
+  "reward": 0.925,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r18",
+  "knob": "remove all staccato",
+  "base": 0.912,
+  "reward": 0.88,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r18",
+  "knob": "melody octave-doubled",
+  "base": 0.912,
+  "reward": 0.8290000000000001,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r18",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.912,
+  "reward": 0.912,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r18",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.912,
+  "reward": 0.914,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r18",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.912,
+  "reward": 0.915,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r18",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.912,
+  "reward": 0.9209999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r18",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.912,
+  "reward": 0.914,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r18",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.912,
+  "reward": 0.9079999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r18",
+  "knob": "lyrics w: under melody",
+  "base": 0.912,
+  "reward": 0.912,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r19",
+  "knob": "grace note before 25% of melody notes",
+  "base": 0.879,
+  "reward": 0.878,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r19",
+  "knob": "!trill! on 25% of melody notes",
+  "base": 0.879,
+  "reward": 0.8909999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r19",
+  "knob": "!>! accent on every melody note",
+  "base": 0.879,
+  "reward": 0.879,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r19",
+  "knob": "staccato on every note (all voices)",
+  "base": 0.879,
+  "reward": 0.8859999999999999,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r19",
+  "knob": "remove all staccato",
+  "base": 0.879,
+  "reward": 0.836,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r19",
+  "knob": "melody octave-doubled",
+  "base": 0.879,
+  "reward": 0.835,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r19",
+  "knob": "non-staccato long notes -> tied halves (same audio)",
+  "base": 0.879,
+  "reward": 0.879,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r19",
+  "knob": "non-staccato long notes -> repeated halves",
+  "base": 0.879,
+  "reward": 0.887,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r19",
+  "knob": "one chromatic note (first melody note sharpened)",
+  "base": 0.879,
+  "reward": 0.878,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r19",
+  "knob": "whole piece inside |: :| (played twice)",
+  "base": 0.879,
+  "reward": 0.888,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r19",
+  "knob": "guitar chords C-F-G7-C on melody bars",
+  "base": 0.879,
+  "reward": 0.88,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r19",
+  "knob": "dynamics !p!/!f! alternating per bar (all voices)",
+  "base": 0.879,
+  "reward": 0.884,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ },
+ {
+  "kind": "random",
+  "pid": "r19",
+  "knob": "lyrics w: under melody",
+  "base": 0.879,
+  "reward": 0.879,
+  "err": 0,
+  "bar": 0,
+  "msg": []
+ }
+]
