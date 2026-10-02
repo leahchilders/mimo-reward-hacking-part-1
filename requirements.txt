@@ -1,5 +1,5 @@
 # The MiMo scorer itself is stdlib-only; these are for the analysis scripts.
 music21==9.9.2   # ABC -> MusicXML (blog_part1), source-fidelity checks, music21-corpus chorales
-pandas==3.0.6    # canon/ tables, hacks2/briefs.py
+pandas==3.0.6    # canon/ tables, hacks/briefs.py
 numpy==2.5.3     # canon/analyze.py
 pyarrow==25.0.1  # reading the briefs parquet

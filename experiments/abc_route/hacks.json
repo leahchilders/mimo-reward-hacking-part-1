@@ -7,6 +7,12 @@
    "quality_ungated": 94.0
   },
   {
+   "file": "examples/hack_hillclimb_16bar.abc",
+   "reward": 0.978,
+   "gates": "",
+   "quality_ungated": 97.8
+  },
+  {
    "file": "examples/hack_hillclimb_staccato.abc",
    "reward": 0.972,
    "gates": "",

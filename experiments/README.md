@@ -49,6 +49,8 @@ These scripts build and check the files in `examples/`:
 - checking that the MusicXML and the scored MIDI carry the same notes (`check_equiv.py`);
 - the unison-chord check (`unison_check.py`).
 
+Run in order: `make_examples.py`, `regroup_voices.py`, `explicit_accidentals.py`, then `check_equiv.py`. (`make_examples.py` rewrites the MusicXML, which the next two scripts then post-process.)
+
 ## `verify/`: independent re-derivations
 
 A second, separately written implementation of the main claims. It reuses only the scorer itself.
